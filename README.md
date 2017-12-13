@@ -18,6 +18,8 @@ These objectives will evolve and change over time.
 
 ## Website
 
+[MyData project website](http://mydataproject.azurewebsites.net/)
+
 This project has a seperate web application that will be used to communicate insights into the data to end users. The GitHub repository for the website has been kept seperate for deployment reasons and can be found [here](https://github.com/willvelida/mydataweb).
 
 ## Datasets
