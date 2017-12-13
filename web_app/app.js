@@ -1,8 +1,11 @@
-var express = require('express')
-var app = express()
+var express = require('express');
+var app = express();
+
+app.use(express.static("public"));
+app.set("view engine", "ejs");
 
 app.get('/', function (req, res) {
-  res.send('Hello World!')
+  res.render("index.ejs");
 })
 
 app.listen(8000, function () {
