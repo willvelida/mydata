@@ -1,4 +1,4 @@
-# My Data Project
+# MyData Project - Insights into my health data.
 
 Contents
 
