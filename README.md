@@ -3,6 +3,7 @@
 Contents
 
 - [Overview](https://github.com/willvelida/mydata/blob/master/README.md#overview)
+- [Website](https://github.com/willvelida/mydata/blob/master/README.md#website)
 - [Datasets](https://github.com/willvelida/mydata/blob/master/README.md#datasets)
 
 ## Overview
@@ -14,6 +15,10 @@ I have been collecting fitness information through my Fitbit Blaze wearable devi
 * Provide a means of interacting with the data in real time.
 
 These objectives will evolve and change over time.
+
+## Website
+
+This project has a seperate web application that will be used to communicate insights into the data to end users. The GitHub repository for the website has been kept seperate for deployment reasons and can be found [here](https://github.com/willvelida/mydataweb).
 
 ## Datasets
 
