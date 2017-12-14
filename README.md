@@ -3,7 +3,7 @@
 Contents
 
 - [Overview](https://github.com/willvelida/mydata/blob/master/README.md#overview)
-- [Developer Log](https://github.com/willvelida/mydata/blob/master/README.md#developer+log)
+- [Developer Log](https://github.com/willvelida/mydata/blob/master/README.md#developer-log)
 - [Website](https://github.com/willvelida/mydata/blob/master/README.md#website)
 - [Datasets](https://github.com/willvelida/mydata/blob/master/README.md#datasets)
 
