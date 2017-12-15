@@ -3,6 +3,7 @@
 Contents
 
 - [Overview](https://github.com/willvelida/mydata/blob/master/README.md#overview)
+- [Developer Log](https://github.com/willvelida/mydata/blob/master/README.md#developer-log)
 - [Website](https://github.com/willvelida/mydata/blob/master/README.md#website)
 - [Datasets](https://github.com/willvelida/mydata/blob/master/README.md#datasets)
 
@@ -15,6 +16,10 @@ I have been collecting fitness information through my Fitbit Blaze wearable devi
 * Provide a means of interacting with the data in real time.
 
 These objectives will evolve and change over time.
+
+## Developer Log
+
+If you want to read about the development of this project, you can do so by checking out my [blog](https://williamvelida.com/category/mydata-project/).
 
 ## Website
 
