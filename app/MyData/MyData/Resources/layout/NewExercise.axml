@@ -32,17 +32,27 @@
             android:layout_width="wrap_content"
             android:layout_weight=".50"
             android:layout_height="match_parent"
+            android:hint="Weight Exercise"
             android:id="@+id/weightName" />
         <EditText
             android:inputType="number"
             android:layout_width="wrap_content"
-            android:layout_weight=".25"
+            android:layout_weight=".30"
+            android:hint="kg"
+            android:layout_height="match_parent"
+            android:id="@+id/weightAmount" />
+        <EditText
+            android:inputType="number"
+            android:layout_width="wrap_content"
+            android:layout_weight=".1"
+            android:hint="Sets"
             android:layout_height="match_parent"
             android:id="@+id/weightSets" />
         <EditText
             android:inputType="number"
             android:layout_width="wrap_content"
-            android:layout_weight=".25"
+            android:layout_weight=".1"
+            android:hint="Reps"
             android:layout_height="match_parent"
             android:id="@+id/weightReps" />
     </LinearLayout>
@@ -55,12 +65,14 @@
             android:layout_width="wrap_content"
             android:layout_weight="0.6"
             android:layout_height="match_parent"
+            android:hint="Cardio Exercise"
             android:id="@+id/cardioName" />
         <EditText
             android:inputType="number"
             android:layout_width="wrap_content"
             android:layout_weight="0.4"
             android:layout_height="match_parent"
+            android:hint="Duration"
             android:id="@+id/cardioDuration" />
     </LinearLayout>
     <Button

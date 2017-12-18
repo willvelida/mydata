@@ -26,6 +26,7 @@ namespace MyData
             EditText exerciseDate = FindViewById<EditText>(Resource.Id.exerciseDate);
             LinearLayout weightsLayout = FindViewById<LinearLayout>(Resource.Id.weightsLayout);
             EditText weightName = FindViewById<EditText>(Resource.Id.weightName);
+            EditText weightAmount = FindViewById<EditText>(Resource.Id.weightAmount);
             EditText weightSets = FindViewById<EditText>(Resource.Id.weightSets);
             EditText weightReps = FindViewById<EditText>(Resource.Id.weightReps);
             LinearLayout cardioLayout = FindViewById<LinearLayout>(Resource.Id.cardioLayout);

@@ -2,7 +2,7 @@
 <xs:schema xmlns:android="http://schemas.android.com/apk/res/android" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v25</xs:documentation>
-    <xs:documentation>18/12/2017 2:13:09 PM</xs:documentation>
+    <xs:documentation>18/12/2017 2:49:42 PM</xs:documentation>
   </xs:annotation>
   <xs:attribute name="accessibilityLiveRegion">
     <xs:annotation>
@@ -16896,6 +16896,7 @@
             <xs:enumeration value="@id/SubmitExerciseButton" />
             <xs:enumeration value="@id/textView1" />
             <xs:enumeration value="@id/textView2" />
+            <xs:enumeration value="@id/weightAmount" />
             <xs:enumeration value="@id/weightName" />
             <xs:enumeration value="@id/weightReps" />
             <xs:enumeration value="@id/weightSets" />
