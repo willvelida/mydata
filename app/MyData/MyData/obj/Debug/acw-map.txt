@@ -1,0 +1,8 @@
+MyData.MainActivity, MyData;md58a5dbafdbe3eda61a029d94da491aa2d.MainActivity
+MyData.MainActivity, MyData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58a5dbafdbe3eda61a029d94da491aa2d.MainActivity
+MyData.MainActivity;md58a5dbafdbe3eda61a029d94da491aa2d.MainActivity
+mydata.MainActivity;md58a5dbafdbe3eda61a029d94da491aa2d.MainActivity
+MyData.NewWorkout, MyData;md58a5dbafdbe3eda61a029d94da491aa2d.NewWorkout
+MyData.NewWorkout, MyData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58a5dbafdbe3eda61a029d94da491aa2d.NewWorkout
+MyData.NewWorkout;md58a5dbafdbe3eda61a029d94da491aa2d.NewWorkout
+mydata.NewWorkout;md58a5dbafdbe3eda61a029d94da491aa2d.NewWorkout

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10px">
+    <TextView
+        android:text="Date"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1" />
+    <EditText
+        android:inputType="date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/exerciseDate" />
+    <TextView
+        android:text="Exercises"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/weightsLayout">
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_weight=".50"
+            android:layout_height="match_parent"
+            android:id="@+id/weightName" />
+        <EditText
+            android:inputType="number"
+            android:layout_width="wrap_content"
+            android:layout_weight=".25"
+            android:layout_height="match_parent"
+            android:id="@+id/weightSets" />
+        <EditText
+            android:inputType="number"
+            android:layout_width="wrap_content"
+            android:layout_weight=".25"
+            android:layout_height="match_parent"
+            android:id="@+id/weightReps" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/cardioLayout">
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_weight="0.6"
+            android:layout_height="match_parent"
+            android:id="@+id/cardioName" />
+        <EditText
+            android:inputType="number"
+            android:layout_width="wrap_content"
+            android:layout_weight="0.4"
+            android:layout_height="match_parent"
+            android:id="@+id/cardioDuration" />
+    </LinearLayout>
+    <Button
+        android:text="Add Weight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/addNewWeightExerciseButton" />
+    <Button
+        android:text="Add Cardio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/addNewCardioExerciseButton" />
+    <Button
+        android:text="Submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/SubmitExerciseButton" />
+</LinearLayout>
