@@ -37,6 +37,19 @@ namespace MyData
             Button submitExerciseButton = FindViewById<Button>(Resource.Id.SubmitExerciseButton);
 
 
+            // Event handler for addWeightButton
+            addWeightButton.Click += (sender, e) =>
+            {
+                // Append a new element to weightsLayout
+            };
+
+            // Event handler for addCardioButton
+            addCardioButton.Click += (sender, e) =>
+            {
+                // Append a new element to cardioLayout
+            };
+
+            // Event handler for submitExercise
             submitExerciseButton.Click += (sender, e) =>
             {
                 // Create new intent

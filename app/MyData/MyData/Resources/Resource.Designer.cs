@@ -44,50 +44,53 @@ namespace MyData
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f04000f
+			public const int SubmitExerciseButton = 2130968591;
+			
 			// aapt resource value: 0x7f04000e
-			public const int SubmitExerciseButton = 2130968590;
+			public const int addNewCardioExerciseButton = 2130968590;
 			
 			// aapt resource value: 0x7f04000d
-			public const int addNewCardioExerciseButton = 2130968589;
+			public const int addNewWeightExerciseButton = 2130968589;
 			
 			// aapt resource value: 0x7f04000c
-			public const int addNewWeightExerciseButton = 2130968588;
-			
-			// aapt resource value: 0x7f04000b
-			public const int cardioDuration = 2130968587;
-			
-			// aapt resource value: 0x7f040009
-			public const int cardioLayout = 2130968585;
+			public const int cardioDuration = 2130968588;
 			
 			// aapt resource value: 0x7f04000a
-			public const int cardioName = 2130968586;
+			public const int cardioLayout = 2130968586;
 			
-			// aapt resource value: 0x7f040002
-			public const int exerciseDate = 2130968578;
+			// aapt resource value: 0x7f04000b
+			public const int cardioName = 2130968587;
+			
+			// aapt resource value: 0x7f040003
+			public const int exerciseDate = 2130968579;
+			
+			// aapt resource value: 0x7f040001
+			public const int mainLayout = 2130968577;
 			
 			// aapt resource value: 0x7f040000
 			public const int newExerciseButton = 2130968576;
 			
-			// aapt resource value: 0x7f040001
-			public const int textView1 = 2130968577;
-			
-			// aapt resource value: 0x7f040003
-			public const int textView2 = 2130968579;
-			
-			// aapt resource value: 0x7f040006
-			public const int weightAmount = 2130968582;
-			
-			// aapt resource value: 0x7f040005
-			public const int weightName = 2130968581;
-			
-			// aapt resource value: 0x7f040008
-			public const int weightReps = 2130968584;
-			
-			// aapt resource value: 0x7f040007
-			public const int weightSets = 2130968583;
+			// aapt resource value: 0x7f040002
+			public const int textView1 = 2130968578;
 			
 			// aapt resource value: 0x7f040004
-			public const int weightsLayout = 2130968580;
+			public const int textView2 = 2130968580;
+			
+			// aapt resource value: 0x7f040007
+			public const int weightAmount = 2130968583;
+			
+			// aapt resource value: 0x7f040006
+			public const int weightName = 2130968582;
+			
+			// aapt resource value: 0x7f040009
+			public const int weightReps = 2130968585;
+			
+			// aapt resource value: 0x7f040008
+			public const int weightSets = 2130968584;
+			
+			// aapt resource value: 0x7f040005
+			public const int weightsLayout = 2130968581;
 			
 			static Id()
 			{

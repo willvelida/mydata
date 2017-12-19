@@ -16,6 +16,8 @@ C:\Users\Will\Documents\Data Science\My Projects\My Data Project\mydata\app\MyDa
 C:\Users\Will\Documents\Data Science\My Projects\My Data Project\mydata\app\MyData\MyData\obj\Debug\android\assets\MyData.dll.mdb
 C:\Users\Will\Documents\Data Science\My Projects\My Data Project\mydata\app\MyData\MyData\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Will\Documents\Data Science\My Projects\My Data Project\mydata\app\MyData\MyData\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Will\Documents\Data Science\My Projects\My Data Project\mydata\app\MyData\MyData\bin\Debug\MyData.dll.config
+C:\Users\Will\Documents\Data Science\My Projects\My Data Project\mydata\app\MyData\MyData\bin\Debug\Microsoft.Azure.DocumentDB.Core.dll
 C:\Users\Will\Documents\Data Science\My Projects\My Data Project\mydata\app\MyData\MyData\bin\Debug\MyData.dll
 bin\Debug\Microsoft.CSharp.pdb
 bin\Debug\Mono.Android.pdb
