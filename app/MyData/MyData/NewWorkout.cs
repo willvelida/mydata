@@ -40,13 +40,15 @@ namespace MyData
             // Event handler for addWeightButton
             addWeightButton.Click += (sender, e) =>
             {
-                // Append a new element to weightsLayout
+                // Create a new element with all EditText inside them
+                // Append the new elements to weightsLayout
             };
 
             // Event handler for addCardioButton
             addCardioButton.Click += (sender, e) =>
             {
-                // Append a new element to cardioLayout
+                // Create a new element with all EditText inside them
+                // Append the new elements to cardioLayout
             };
 
             // Event handler for submitExercise
