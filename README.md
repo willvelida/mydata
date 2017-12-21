@@ -71,3 +71,16 @@ These are the datasets used within the 'My Data' project. They are currently sto
 | % REM sleep | Percentage of total time of sleep counted as REM | Round((Minutes REM Sleep / Time in Bed) * 100, 2 decimal places) |
 | % Deep sleep | Percentage of total time of sleep counted as deep | Round((Minutes Deep Sleep / Time in Bed) * 100, 2 decimal places) |
 | % Unclassified | Percentage of total time of sleep unclassified by Fitbit device | 100 - (% Light Sleep - % REM Sleep - % Deep sleep) |
+
+**Gym Workouts**
+
+| Field Name | Description | Calculation (If applicable) |
+|----------- | ----------- | ----------------------------|
+| Exercise Week | The week number in the year | None |
+| Exercise Year | The year that the workout took place in | None |
+| Exercise Day | The day that the workout took place on | None |
+| Exercise Date | The date that the workout took place on (dd-mm-yyyy) | None |
+| Exercise Name | The name of the exercise | None |
+| Weight | The amount of weight lifted | None |
+| Sets | Number of sets | None |
+| Reps | Number of reps | None |
