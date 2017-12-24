@@ -82,6 +82,31 @@ These are the datasets used within the 'My Data' project. They are currently sto
 | Exercise Day | The day that the workout took place on | None |
 | Exercise Date | The date that the workout took place on (dd-mm-yyyy) | None |
 | Exercise Name | The name of the exercise | None |
-| Weight | The amount of weight lifted | None |
+| Weight | The amount of weight lifted (In KG) | None |
 | Sets | Number of sets | None |
 | Reps | Number of reps | None |
+
+**Weight Measurements**
+
+| Field Name | Description | Calculation (If applicable) |
+|----------- | ----------- | ----------------------------|
+| WeightID | ID for weight measurement | None |
+| Weight Date | Date of measurement | None |
+| Weight (Stone) | The amount I weighed in stone | None |
+| Weight (Kg) | The amount I weighed in KG | None |
+| Weight (lbs) | The amount I weighed in pounds | None |
+| BMI | Body Mass Index measurement | (Weight (KG) / Height (1.88)) / Height (1.88) |
+
+**Food Logs**
+
+| Field Name | Description | Calculation (If applicable) |
+|----------- | ----------- | ----------------------------|
+| FoodID | ID for food measurement | None |
+| Date | Date of food log | None |
+| Calories In | The amount of calories consumed | None |
+| Fat (g) | Fat consumed for the day (in grams) | None |
+| Carbs (g) | Carbs consumed for the day (in grams) | None |
+| Sodium (mg) | Fat consumed for the day (in milligrams) | None |
+| Protein (g) | Protein consumed for the day (in grams) | None |
+| Water (ml) | Water consumed for the day (in millilitres) | None |
+| WaterTargetAchieved | Have I consumed enough water today? | IF Water > 2500 then "Yes" else "No" |
