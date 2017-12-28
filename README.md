@@ -95,7 +95,8 @@ These are the datasets used within the 'My Data' project. They are currently sto
 | Weight (Stone) | The amount I weighed in stone | None |
 | Weight (Kg) | The amount I weighed in KG | None |
 | Weight (lbs) | The amount I weighed in pounds | None |
-| BMI | Body Mass Index measurement | (Weight (KG) / Height (1.88)) / Height (1.88) |
+| Gain/Loss Amount | The amount of total gain or loss achieved in that weight | current Weight in Pounds - Last Week Weight in Pounds |
+| TotalToTarget (lbs) | The amount I weighed in pounds | Weight (lbs) - 210.  |
 
 **Food Logs**
 
