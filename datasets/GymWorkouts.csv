@@ -287,3 +287,21 @@ ExerciseId,DateId,Exercise Date,Exercise Week,Exercise Month,Exercise Year,Exerc
 286,34,24/12/2017,51,December,2017,Sunday,V-up crunches with medicine ball,8.00,3,10
 287,34,24/12/2017,51,December,2017,Sunday,Barbell twists,0.00,3,10
 288,34,24/12/2017,51,December,2017,Sunday,Russian Twists,10.00,3,20
+289,35,27/12/2017,52,December,2017,Wednesday,Bench Press,100.00,5,5
+290,35,27/12/2017,52,December,2017,Wednesday,Overhead Press,55.00,5,5
+291,35,27/12/2017,52,December,2017,Wednesday,Barbell Row,90.00,5,5
+292,35,27/12/2017,52,December,2017,Wednesday,Pull-Ups,105.00,5,5
+293,35,27/12/2017,52,December,2017,Wednesday,Bicycles,0.00,3,10
+294,35,27/12/2017,52,December,2017,Wednesday,Leg Raises,0.00,3,10
+295,35,27/12/2017,52,December,2017,Wednesday,Russian Twists,10.00,3,10
+296,35,27/12/2017,52,December,2017,Wednesday,V-up crunches with medicine ball,8.00,3,10
+297,35,28/12/2017,52,December,2017,Thursday,Shoulder Press,26.00,4,8
+298,35,28/12/2017,52,December,2017,Thursday,Shoulder Shrug,26.00,4,8
+299,35,28/12/2017,52,December,2017,Thursday,Dumbell Chest Press,26.00,4,8
+300,35,28/12/2017,52,December,2017,Thursday,One arm row (left),32.00,4,8
+301,35,28/12/2017,52,December,2017,Thursday,One arm row (right),32.00,4,8
+302,35,28/12/2017,52,December,2017,Thursday,Seated Row,59.00,4,8
+303,35,28/12/2017,52,December,2017,Thursday,Lat Pull Down,66.00,4,8
+304,35,28/12/2017,52,December,2017,Thursday,Left Crunch,0.00,4,10
+305,35,28/12/2017,52,December,2017,Thursday,Right Crunch,0.00,4,10
+306,35,28/12/2017,52,December,2017,Thursday,Sled Pushes,30.00,5,4
