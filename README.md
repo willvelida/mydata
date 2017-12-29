@@ -85,6 +85,7 @@ These are the datasets used within the 'My Data' project. They are currently sto
 | Weight | The amount of weight lifted (In KG) | None |
 | Sets | Number of sets | None |
 | Reps | Number of reps | None |
+| TrainingArea | Area of body trained | None |
 
 **Weight Measurements**
 

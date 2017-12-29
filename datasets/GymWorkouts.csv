@@ -1,313 +1,313 @@
-ExerciseId,DateId,Exercise Date,Exercise Week,Exercise Month,Exercise Year,Exercise Day,Exercise Name,Weight,Sets,Reps
-1,1,6/11/2017,45,November,2017,Monday,Bench Press,90.00,5,5
-2,1,6/11/2017,45,November,2017,Monday,Overhead Press,45.00,5,5
-3,1,6/11/2017,45,November,2017,Monday,Barbell Row,80.00,5,5
-4,1,6/11/2017,45,November,2017,Monday,Assisted Pull up,23.00,5,5
-5,2,8/11/2017,45,November,2017,Wednesday,Barbell Squat,80.00,4,5
-6,2,8/11/2017,45,November,2017,Wednesday,Hip adduction,45.00,4,10
-7,2,8/11/2017,45,November,2017,Wednesday,Hip thrust,60.00,3,5
-8,2,8/11/2017,45,November,2017,Wednesday,Leg Raises,0.00,3,15
-9,2,8/11/2017,45,November,2017,Wednesday,alternate leg raises,0.00,3,15
-10,2,8/11/2017,45,November,2017,Wednesday,Bicycles,0.00,3,15
-11,3,10/11/2017,45,November,2017,Friday,Pec Fly,93.00,4,6
-12,3,10/11/2017,45,November,2017,Friday,Rear Delt,73.00,4,8
-13,3,10/11/2017,45,November,2017,Friday,Bicep Curl,40.00,4,8
-14,3,10/11/2017,45,November,2017,Friday,Tricep Pull down,34.00,4,8
-15,3,10/11/2017,45,November,2017,Friday,Back Row,80.00,5,5
-16,3,10/11/2017,45,November,2017,Friday,Lying Bicep Curl,29.00,4,8
-17,3,10/11/2017,45,November,2017,Friday,Plank,0.00,3,1
-18,3,10/11/2017,45,November,2017,Friday,Left Plank,0.00,3,1
-19,3,10/11/2017,45,November,2017,Friday,Right Plank,0.00,3,1
-20,4,12/11/2017,45,November,2017,Sunday,Shoulder Press,20.00,4,8
-21,4,12/11/2017,45,November,2017,Sunday,Shoulder Shrug,20.00,4,8
-22,4,12/11/2017,45,November,2017,Sunday,Leg Extension,80.00,4,8
-23,4,12/11/2017,45,November,2017,Sunday,Leg Curl,50.00,4,8
-24,4,12/11/2017,45,November,2017,Sunday,Chest Fly,35.00,4,8
-25,4,12/11/2017,45,November,2017,Sunday,Leg Raises,0.00,3,10
-26,4,12/11/2017,45,November,2017,Sunday,Russian Twists,0.00,3,10
-27,4,12/11/2017,45,November,2017,Sunday,Bicycles,0.00,3,20
-28,5,13/11/2017,46,November,2017,Monday,Bench Press,85.00,5,5
-29,5,13/11/2017,46,November,2017,Monday,Barbell Row,80.00,5,5
-30,5,13/11/2017,46,November,2017,Monday,Overhead Press,40.00,5,5
-31,5,13/11/2017,46,November,2017,Monday,Assisted Pull up,23.00,5,5
-32,6,15/11/2017,46,November,2017,Wednesday,Barbell Squat,85.00,5,5
-33,6,15/11/2017,46,November,2017,Wednesday,Deadlift,100.00,5,5
-34,6,15/11/2017,46,November,2017,Wednesday,Hip thrust,40.00,5,5
-35,6,15/11/2017,46,November,2017,Wednesday,Lunges,20.00,4,10
-36,7,16/11/2017,46,November,2017,Thursday,Bicep Curl,40.00,4,8
-37,7,16/11/2017,46,November,2017,Thursday,Tricep Pull down,34.00,4,8
-38,7,16/11/2017,46,November,2017,Thursday,Hammer Curl,18.00,4,8
-39,7,16/11/2017,46,November,2017,Thursday,Pec Fly,93.00,4,8
-40,7,16/11/2017,46,November,2017,Thursday,Rear Delt,73.00,4,8
-41,7,16/11/2017,46,November,2017,Thursday,Lying Bicep Curl,29.00,4,8
-42,8,17/11/2017,46,November,2017,Friday,Incline Bench,70.00,5,5
-43,8,17/11/2017,46,November,2017,Friday,Lat Pull,66.00,5,5
-44,8,17/11/2017,46,November,2017,Friday,Chest Fly,35.00,4,8
-45,8,17/11/2017,46,November,2017,Friday,Plank,0.00,3,1
-46,8,17/11/2017,46,November,2017,Friday,Left Plank,0.00,3,1
-47,8,17/11/2017,46,November,2017,Friday,Right Plank,0.00,3,1
-48,9,19/11/2017,46,November,2017,Sunday,Shoulder Press,22.00,4,8
-49,9,19/11/2017,46,November,2017,Sunday,Shoulder Shrug,22.00,4,10
-50,9,19/11/2017,46,November,2017,Sunday,Bodyweight Dip,100.00,4,10
-51,9,19/11/2017,46,November,2017,Sunday,Leg Raises,0.00,3,10
-52,9,19/11/2017,46,November,2017,Sunday,Russian Twists,0.00,3,10
-53,9,19/11/2017,46,November,2017,Sunday,Axe Plank,0.00,3,10
-54,9,19/11/2017,46,November,2017,Sunday,Press ups,0.00,3,10
-55,9,19/11/2017,46,November,2017,Sunday,back extension,0.00,3,10
-56,9,19/11/2017,46,November,2017,Sunday,Laterial Raises,10.00,4,10
-57,10,20/11/2017,47,November,2017,Monday,Bench Press,85.00,5,5
-58,10,20/11/2017,47,November,2017,Monday,Barbell Row,80.00,5,5
-59,10,20/11/2017,47,November,2017,Monday,Overhead Press,45.00,5,5
-60,10,20/11/2017,47,November,2017,Monday,Assisted Pull up,23.00,5,5
-61,10,20/11/2017,47,November,2017,Monday,Box jumps,0.00,4,10
-62,10,20/11/2017,47,November,2017,Monday,Push ups,0.00,4,10
-63,10,20/11/2017,47,November,2017,Monday,toe-to-bar,0.00,4,8
-64,11,21/11/2017,47,November,2017,Tuesday,Dumbell Step Up,32.00,4,10
-65,11,21/11/2017,47,November,2017,Tuesday,Bodyweight Dip,100.00,4,8
-66,11,21/11/2017,47,November,2017,Tuesday,Bodyweight Pull-up,100.00,4,6
-67,11,21/11/2017,47,November,2017,Tuesday,Burpee,0.00,3,6
-68,11,21/11/2017,47,November,2017,Tuesday,Inverted Row,100.00,1,25
-69,11,21/11/2017,47,November,2017,Tuesday,Plank,0.00,3,1
-70,11,21/11/2017,47,November,2017,Tuesday,Left Plank,0.00,3,1
-71,11,21/11/2017,47,November,2017,Tuesday,Right Plank,0.00,3,1
-72,11,21/11/2017,47,November,2017,Tuesday,Bicycles,0.00,3,12
-73,11,21/11/2017,47,November,2017,Tuesday,back extension,0.00,3,12
-74,12,22/11/2017,47,November,2017,Wednesday,Barbell Squat,85.00,5,5
-75,12,22/11/2017,47,November,2017,Wednesday,Deadlift,110.00,5,5
-76,12,22/11/2017,47,November,2017,Wednesday,Hip thrust,50.00,5,5
-77,12,22/11/2017,47,November,2017,Wednesday,Lunges,24.00,4,10
-78,12,22/11/2017,47,November,2017,Wednesday,Leg Extension,90.00,4,8
-79,12,22/11/2017,47,November,2017,Wednesday,Leg Curl,50.00,4,8
-80,13,24/11/2017,47,November,2017,Friday,Incline Bench,75.00,5,5
-81,13,24/11/2017,47,November,2017,Friday,Pec Fly,100.00,4,8
-82,13,24/11/2017,47,November,2017,Friday,Rear Delt,79.00,4,8
-83,13,24/11/2017,47,November,2017,Friday,Back Row,90.00,5,5
-84,13,24/11/2017,47,November,2017,Friday,Horizontal Chop Left,25.00,3,12
-85,13,24/11/2017,47,November,2017,Friday,Russian Twists,0.00,3,20
-86,13,24/11/2017,47,November,2017,Friday,Horizontal Chop Right,25.00,3,12
-87,14,26/11/2017,47,November,2017,Sunday,Bicep Curl,45.00,4,8
-88,14,26/11/2017,47,November,2017,Sunday,Hammer Curl,20.00,5,5
-89,14,26/11/2017,47,November,2017,Sunday,Tricep Pull down,35.00,8,8
-90,14,26/11/2017,47,November,2017,Sunday,Lying down tricep curl,30.00,4,8
-91,14,26/11/2017,47,November,2017,Sunday,Lying Bicep Curl,31.00,4,8
-92,14,26/11/2017,47,November,2017,Sunday,Plank,0.00,3,1
-93,14,26/11/2017,47,November,2017,Sunday,Left Plank,0.00,3,1
-94,14,26/11/2017,47,November,2017,Sunday,Right Plank,0.00,3,1
-95,14,26/11/2017,47,November,2017,Sunday,Leg Raises,0.00,3,12
-96,14,26/11/2017,47,November,2017,Sunday,back extension,10.00,3,12
-97,14,26/11/2017,47,November,2017,Sunday,Horizontal Chop Left,25.00,3,12
-98,14,26/11/2017,47,November,2017,Sunday,Horizontal Chop Right,25.00,3,12
-99,15,27/11/2017,48,November,2017,Monday,Bench Press,90.00,5,5
-100,15,27/11/2017,48,November,2017,Monday,Barbell Row,85.00,5,5
-101,15,27/11/2017,48,November,2017,Monday,Overhead Press,45.00,5,5
-102,15,27/11/2017,48,November,2017,Monday,Assisted Pull up,23.00,5,5
-103,15,27/11/2017,48,November,2017,Monday,Box jumps,0.00,3,10
-104,15,27/11/2017,48,November,2017,Monday,Push ups,0.00,4,10
-105,15,27/11/2017,48,November,2017,Monday,toe-to-bar,0.00,4,8
-106,16,29/11/2017,48,November,2017,Wednesday,Dumbell Step Up,32.00,4,10
-107,16,29/11/2017,48,November,2017,Wednesday,Bodyweight Dip,100.00,4,8
-108,16,29/11/2017,48,November,2017,Wednesday,Bodyweight Pull-up,100.00,4,6
-109,16,29/11/2017,48,November,2017,Wednesday,Burpee,0.00,4,6
-110,16,29/11/2017,48,November,2017,Wednesday,Inverted Row,100.00,1,25
-111,16,29/11/2017,48,November,2017,Wednesday,Plank,0.00,3,1
-112,16,29/11/2017,48,November,2017,Wednesday,Left Plank,0.00,3,1
-113,16,29/11/2017,48,November,2017,Wednesday,Right Plank,0.00,3,1
-114,16,29/11/2017,48,November,2017,Wednesday,Bicycles,0.00,3,12
-115,16,29/11/2017,48,November,2017,Wednesday,Horizontal Chop Left,25.00,3,12
-116,16,29/11/2017,48,November,2017,Wednesday,Horizontal Chop Right,25.00,3,12
-117,17,30/11/2017,48,November,2017,Thursday,Barbell Squat,70.00,4,8
-118,17,30/11/2017,48,November,2017,Thursday,Hip thrust,50.00,5,5
-119,17,30/11/2017,48,November,2017,Thursday,Lunges,28.00,3,10
-120,17,30/11/2017,48,November,2017,Thursday,Leg Extension,90.00,4,8
-121,17,30/11/2017,48,November,2017,Thursday,Leg Curl,60.00,4,8
-122,18,1/12/2017,48,December,2017,Friday,Incline Bench,75.00,5,5
-123,18,1/12/2017,48,December,2017,Friday,Pec Fly,100.00,4,8
-124,18,1/12/2017,48,December,2017,Friday,Rear Delt,79.00,4,8
-125,18,1/12/2017,48,December,2017,Friday,Back Row,90.00,5,5
-126,18,1/12/2017,48,December,2017,Friday,Horizontal Chop Left,25.00,3,12
-127,18,1/12/2017,48,December,2017,Friday,Horizontal Chop Right,25.00,3,12
-128,18,1/12/2017,48,December,2017,Friday,Russian Twists,0.00,3,12
-129,18,1/12/2017,48,December,2017,Friday,Lat Pull Down,66.00,4,8
-130,19,3/12/2017,48,December,2017,Sunday,Bicep Curl,45.00,4,8
-131,19,3/12/2017,48,December,2017,Sunday,Tricep Pull down,35.00,4,8
-132,19,3/12/2017,48,December,2017,Sunday,Hammer Curl,22.00,5,5
-133,19,3/12/2017,48,December,2017,Sunday,Lying down tricep curl,35.00,4,8
-134,19,3/12/2017,48,December,2017,Sunday,Lying Bicep Curl,31.00,4,8
-135,19,3/12/2017,48,December,2017,Sunday,Chest Fly,40.00,4,8
-136,19,3/12/2017,48,December,2017,Sunday,Horizontal Chop Left,25.00,3,12
-137,19,3/12/2017,48,December,2017,Sunday,Horizontal Chop Right,25.00,3,12
-138,19,3/12/2017,48,December,2017,Sunday,Plank,0.00,3,1
-139,19,3/12/2017,48,December,2017,Sunday,Left Plank,0.00,3,1
-140,19,3/12/2017,48,December,2017,Sunday,Right Plank,0.00,3,1
-141,19,3/12/2017,48,December,2017,Sunday,Shoulder Press,22.00,4,8
-142,19,3/12/2017,48,December,2017,Sunday,Shoulder Shrug,22.00,4,8
-143,20,4/12/2017,49,December,2017,Monday,Bench Press,90.00,5,5
-144,20,4/12/2017,49,December,2017,Monday,Barbell Row,80.00,5,5
-145,20,4/12/2017,49,December,2017,Monday,Overhead Press,45.00,5,5
-146,20,4/12/2017,49,December,2017,Monday,Assisted Pull up,-18.00,5,5
-147,20,4/12/2017,49,December,2017,Monday,toe-to-bar,0.00,4,8
-148,20,4/12/2017,49,December,2017,Monday,Sit ups,0.00,4,12
-149,20,4/12/2017,49,December,2017,Monday,Left Crunch,0.00,4,12
-150,20,4/12/2017,49,December,2017,Monday,Right Crunch,0.00,4,12
-151,21,6/12/2017,49,December,2017,Wednesday,Dumbell Step Up,32.00,4,10
-152,21,6/12/2017,49,December,2017,Wednesday,Bodyweight Dip,100.00,4,8
-153,21,6/12/2017,49,December,2017,Wednesday,Bodyweight Pull-up,100.00,4,5
-154,21,6/12/2017,49,December,2017,Wednesday,Burpee,0.00,4,6
-155,21,6/12/2017,49,December,2017,Wednesday,Box jumps,0.00,3,10
-156,21,6/12/2017,49,December,2017,Wednesday,Press ups,0.00,4,10
-157,21,6/12/2017,49,December,2017,Wednesday,Plank,0.00,3,1
-158,21,6/12/2017,49,December,2017,Wednesday,Left Plank,0.00,3,1
-159,21,6/12/2017,49,December,2017,Wednesday,Right Plank,0.00,3,1
-160,21,6/12/2017,49,December,2017,Wednesday,Horizontal Chop Left,30.00,3,12
-161,21,6/12/2017,49,December,2017,Wednesday,Horizontal Chop Right,30.00,3,12
-162,22,7/12/2017,49,December,2017,Thursday,Barbell Squat,85.00,5,5
-163,22,7/12/2017,49,December,2017,Thursday,Deadlift,120.00,5,5
-164,22,7/12/2017,49,December,2017,Thursday,Leg Extension,95.00,4,8
-165,22,7/12/2017,49,December,2017,Thursday,Leg Curl,70.00,4,8
-166,22,7/12/2017,49,December,2017,Thursday,Hip thrust,55.00,5,5
-167,22,7/12/2017,49,December,2017,Thursday,Lunges,32.00,4,10
-168,23,8/12/2017,49,December,2017,Friday,Incline Bench,80.00,5,5
-169,23,8/12/2017,49,December,2017,Friday,Pec Fly,107.00,4,8
-170,23,8/12/2017,49,December,2017,Friday,Rear Delt,79.00,4,8
-171,23,8/12/2017,49,December,2017,Friday,Lat Pull Down,73.00,5,5
-172,23,8/12/2017,49,December,2017,Friday,Back Row,95.00,5,5
-173,23,8/12/2017,49,December,2017,Friday,Russian Twists,0.00,3,12
-174,23,8/12/2017,49,December,2017,Friday,Left Crunch,0.00,3,12
-175,23,8/12/2017,49,December,2017,Friday,Right Crunch,0.00,3,12
-176,23,8/12/2017,49,December,2017,Friday,Bicycles,0.00,3,12
-177,23,8/12/2017,49,December,2017,Friday,Leg Raises,0.00,4,10
-178,23,8/12/2017,49,December,2017,Friday,Sit ups,0.00,4,12
-179,24,10/12/2017,49,December,2017,Sunday,Bicep Curl,50.00,5,5
-180,24,10/12/2017,49,December,2017,Sunday,Tricep Pull down,40.00,4,8
-181,24,10/12/2017,49,December,2017,Sunday,Hammer Curl,24.00,5,5
-182,24,10/12/2017,49,December,2017,Sunday,Lying down tricep curl,40.00,5,5
-183,24,10/12/2017,49,December,2017,Sunday,Lying Bicep Curl,36.00,5,5
-184,24,10/12/2017,49,December,2017,Sunday,Shoulder Press,26.00,5,5
-185,24,10/12/2017,49,December,2017,Sunday,Shoulder Shrug,26.00,5,5
-186,24,10/12/2017,49,December,2017,Sunday,Horizontal Chop Left,25.00,3,12
-187,24,10/12/2017,49,December,2017,Sunday,Horizontal Chop Right,25.00,3,12
-188,24,10/12/2017,49,December,2017,Sunday,Sit ups,0.00,4,12
-189,24,10/12/2017,49,December,2017,Sunday,Plank,0.00,3,1
-190,24,10/12/2017,49,December,2017,Sunday,Right Plank,0.00,3,1
-191,24,10/12/2017,49,December,2017,Sunday,Left Plank,0.00,3,1
-192,24,10/12/2017,49,December,2017,Sunday,Leg Raises,0.00,4,10
-193,25,11/12/2017,50,December,2017,Monday,Bench Press,92.50,5,5
-194,25,11/12/2017,50,December,2017,Monday,Barbell Row,80.00,5,5
-195,25,11/12/2017,50,December,2017,Monday,Overhead Press,50.00,5,5
-196,25,11/12/2017,50,December,2017,Monday,Assisted Pull up,18.00,5,5
-197,25,11/12/2017,50,December,2017,Monday,One arm row (right),28.00,5,5
-198,25,11/12/2017,50,December,2017,Monday,One arm row (left),28.00,5,5
-199,25,11/12/2017,50,December,2017,Monday,Chest Fly,40.00,5,5
-200,25,11/12/2017,50,December,2017,Monday,Left Crunch,0.00,4,12
-201,25,11/12/2017,50,December,2017,Monday,Right Crunch,0.00,4,12
-202,25,11/12/2017,50,December,2017,Monday,toe-to-bar,0.00,4,10
-203,25,11/12/2017,50,December,2017,Monday,Sit ups,0.00,4,12
-204,25,11/12/2017,50,December,2017,Monday,Heel-taps,0.00,4,12
-205,26,13/12/2017,50,December,2017,Wednesday,Incline Bench,80.00,5,5
-206,26,13/12/2017,50,December,2017,Wednesday,Pec Fly,113.00,5,5
-207,26,13/12/2017,50,December,2017,Wednesday,Rear Delt,86.00,4,8
-208,26,13/12/2017,50,December,2017,Wednesday,Lat Pull Down,66.00,4,8
-209,26,13/12/2017,50,December,2017,Wednesday,Back Row,95.00,5,5
-210,26,13/12/2017,50,December,2017,Wednesday,Sit ups,0.00,4,10
-211,26,13/12/2017,50,December,2017,Wednesday,Leg-raises,0.00,4,10
-212,26,13/12/2017,50,December,2017,Wednesday,Bicycles,0.00,4,12
-213,26,13/12/2017,50,December,2017,Wednesday,Heel-taps,0.00,4,12
-214,27,14/12/2017,50,December,2017,Thursday,Barbell Squat,85.00,5,5
-215,27,14/12/2017,50,December,2017,Thursday,Deadlift,120.00,5,5
-216,27,14/12/2017,50,December,2017,Thursday,Leg Extension,100.00,4,8
-217,27,14/12/2017,50,December,2017,Thursday,Leg Curl,75.00,4,8
-218,27,14/12/2017,50,December,2017,Thursday,Hip adduction,59.00,4,8
-219,27,14/12/2017,50,December,2017,Thursday,Hip abduction,52.00,4,8
-220,28,15/12/2017,50,December,2017,Friday,Dumbell Step Up,32.00,4,12
-221,28,15/12/2017,50,December,2017,Friday,Bodyweight Dip,100.00,4,8
-222,28,15/12/2017,50,December,2017,Friday,Bodyweight Pull-up,100.00,5,5
-223,28,15/12/2017,50,December,2017,Friday,Press ups,0.00,4,10
-224,28,15/12/2017,50,December,2017,Friday,Box jumps,0.00,3,10
-225,28,15/12/2017,50,December,2017,Friday,Squat Snatch,10.00,4,12
-226,28,15/12/2017,50,December,2017,Friday,Barbell twists,0.00,3,12
-227,28,15/12/2017,50,December,2017,Friday,Left Crunch,0.00,3,12
-228,28,15/12/2017,50,December,2017,Friday,Right Crunch,0.00,3,12
-229,28,15/12/2017,50,December,2017,Friday,Sit ups,0.00,3,12
-230,29,17/12/2017,50,December,2017,Sunday,Bicep Curl,50.00,4,8
-231,29,17/12/2017,50,December,2017,Sunday,Lying down tricep curl,40.00,4,8
-232,29,17/12/2017,50,December,2017,Sunday,Shoulder Press,26.00,4,8
-233,29,17/12/2017,50,December,2017,Sunday,Hammer Curl,22.00,4,8
-234,29,17/12/2017,50,December,2017,Sunday,Tricep Pull down,40.00,4,8
-235,29,17/12/2017,50,December,2017,Sunday,Shoulder Shrug,26.00,4,8
-236,29,17/12/2017,50,December,2017,Sunday,Sit ups,0.00,4,12
-237,29,17/12/2017,50,December,2017,Sunday,Left Crunch,0.00,4,12
-238,29,17/12/2017,50,December,2017,Sunday,Right Crunch,0.00,4,12
-239,30,18/12/2017,51,December,2017,Monday,Bench Press,95.00,5,5
-240,30,18/12/2017,51,December,2017,Monday,Overhead Press,55.00,5,5
-241,30,18/12/2017,51,December,2017,Monday,Barbell Row,85.00,5,5
-242,30,18/12/2017,51,December,2017,Monday,Pull-Ups,0.00,5,5
-243,30,18/12/2017,51,December,2017,Monday,One arm row (left),32.00,4,8
-244,30,18/12/2017,51,December,2017,Monday,One arm row (right),32.00,4,8
-245,30,18/12/2017,51,December,2017,Monday,Leg Raises,0.00,3,10
-246,30,18/12/2017,51,December,2017,Monday,Bar twists,0.00,4,12
-247,30,18/12/2017,51,December,2017,Monday,Sit-ups,0.00,4,12
-248,30,18/12/2017,51,December,2017,Monday,Horizontal Chop Left,25.00,3,12
-249,30,18/12/2017,51,December,2017,Monday,Horizontal Chop Right,25.00,3,12
-250,31,20/12/2017,51,December,2017,Wednesday,Barbell Squat,90.00,5,5
-251,31,20/12/2017,51,December,2017,Wednesday,Deadlift,125.00,5,5
-252,31,20/12/2017,51,December,2017,Wednesday,Leg Extension,110.00,4,8
-253,31,20/12/2017,51,December,2017,Wednesday,Leg Curl,80.00,4,8
-254,31,20/12/2017,51,December,2017,Wednesday,Hip adduction,73.00,4,8
-255,31,20/12/2017,51,December,2017,Wednesday,Hip abduction,66.00,4,8
-256,31,20/12/2017,51,December,2017,Wednesday,Hip thrust,60.00,5,5
-257,31,20/12/2017,51,December,2017,Wednesday,Left Crunch,0.00,3,10
-258,31,20/12/2017,51,December,2017,Wednesday,Right Crunch,0.00,3,10
-259,31,20/12/2017,51,December,2017,Wednesday,Leg Raises,0.00,3,10
-260,31,20/12/2017,51,December,2017,Wednesday,Crunches,0.00,3,10
-261,32,21/12/2017,51,December,2017,Thursday,Incline Bench,85.00,5,5
-262,32,21/12/2017,51,December,2017,Thursday,Lat Pull,66.00,4,8
-263,32,21/12/2017,51,December,2017,Thursday,Pec Fly,107.00,4,8
-264,32,21/12/2017,51,December,2017,Thursday,Rear Delt,86.00,4,8
-265,32,21/12/2017,51,December,2017,Thursday,Back Row,100.00,5,5
-266,32,21/12/2017,51,December,2017,Thursday,Left Crunch,0.00,3,12
-267,32,21/12/2017,51,December,2017,Thursday,Right Crunch,0.00,3,12
-268,32,21/12/2017,51,December,2017,Thursday,Leg Raises,0.00,3,10
-269,32,21/12/2017,51,December,2017,Thursday,Crunches,0.00,3,10
-270,32,21/12/2017,51,December,2017,Thursday,Bench Press with Chains,60.00,4,8
-271,33,23/12/2017,51,December,2017,Saturday,Dumbell Step Up,36.00,4,12
-272,33,23/12/2017,51,December,2017,Saturday,Bodyweight Dip,100.00,4,8
-273,33,23/12/2017,51,December,2017,Saturday,Bodyweight Pull-up,100.00,5,5
-274,33,23/12/2017,51,December,2017,Saturday,Squat Snatch,8.00,4,12
-275,33,23/12/2017,51,December,2017,Saturday,Box jumps,0.00,3,10
-276,33,23/12/2017,51,December,2017,Saturday,V-up crunches with medicine ball,8.00,4,10
-277,33,23/12/2017,51,December,2017,Saturday,Leg Raises,0.00,4,10
-278,33,23/12/2017,51,December,2017,Saturday,Heel-taps,0.00,4,10
-279,33,23/12/2017,51,December,2017,Saturday,Barbell twists,0.00,4,10
-280,34,24/12/2017,51,December,2017,Sunday,Bicep Curl,50.00,4,8
-281,34,24/12/2017,51,December,2017,Sunday,Tricep Pull down,40.00,4,8
-282,34,24/12/2017,51,December,2017,Sunday,Shoulder Press,24.00,4,8
-283,34,24/12/2017,51,December,2017,Sunday,Shoulder Shrug,24.00,4,8
-284,34,24/12/2017,51,December,2017,Sunday,Lying Bicep Curl,34.00,4,8
-285,34,24/12/2017,51,December,2017,Sunday,Seated Row,61.00,4,8
-286,34,24/12/2017,51,December,2017,Sunday,V-up crunches with medicine ball,8.00,3,10
-287,34,24/12/2017,51,December,2017,Sunday,Barbell twists,0.00,3,10
-288,34,24/12/2017,51,December,2017,Sunday,Russian Twists,10.00,3,20
-289,35,27/12/2017,52,December,2017,Wednesday,Bench Press,100.00,5,5
-290,35,27/12/2017,52,December,2017,Wednesday,Overhead Press,55.00,5,5
-291,35,27/12/2017,52,December,2017,Wednesday,Barbell Row,90.00,5,5
-292,35,27/12/2017,52,December,2017,Wednesday,Pull-Ups,105.00,5,5
-293,35,27/12/2017,52,December,2017,Wednesday,Bicycles,0.00,3,10
-294,35,27/12/2017,52,December,2017,Wednesday,Leg Raises,0.00,3,10
-295,35,27/12/2017,52,December,2017,Wednesday,Russian Twists,10.00,3,10
-296,35,27/12/2017,52,December,2017,Wednesday,V-up crunches with medicine ball,8.00,3,10
-297,35,28/12/2017,52,December,2017,Thursday,Shoulder Press,26.00,4,8
-298,35,28/12/2017,52,December,2017,Thursday,Shoulder Shrug,26.00,4,8
-299,35,28/12/2017,52,December,2017,Thursday,Dumbell Chest Press,26.00,4,8
-300,35,28/12/2017,52,December,2017,Thursday,One arm row (left),32.00,4,8
-301,35,28/12/2017,52,December,2017,Thursday,One arm row (right),32.00,4,8
-302,35,28/12/2017,52,December,2017,Thursday,Seated Row,59.00,4,8
-303,35,28/12/2017,52,December,2017,Thursday,Lat Pull Down,66.00,4,8
-304,35,28/12/2017,52,December,2017,Thursday,Left Crunch,0.00,4,10
-305,35,28/12/2017,52,December,2017,Thursday,Right Crunch,0.00,4,10
-306,35,28/12/2017,52,December,2017,Thursday,Sled Pushes,30.00,5,4
-307,36,29/12/2017,52,December,2017,Friday,Barbell Squat,90.00,5,5
-308,36,29/12/2017,52,December,2017,Friday,Deadlift,130.00,5,5
-309,36,29/12/2017,52,December,2017,Friday,Leg Extension,100.00,4,12
-310,36,29/12/2017,52,December,2017,Friday,Leg Curl,60.00,4,12
-311,36,29/12/2017,52,December,2017,Friday,Hip adduction,54.00,4,12
-312,36,29/12/2017,52,December,2017,Friday,Hip abduction,45.00,4,12
+ExerciseId,DateId,Exercise Date,Exercise Week,Exercise Month,Exercise Year,Exercise Day,Exercise Name,Weight,Sets,Reps,TrainingArea
+1,1,6/11/2017,45,November,2017,Monday,Bench Press,90.00,5,5,Chest
+2,1,6/11/2017,45,November,2017,Monday,Overhead Press,45.00,5,5,Chest
+3,1,6/11/2017,45,November,2017,Monday,Barbell Row,80.00,5,5,Back
+4,1,6/11/2017,45,November,2017,Monday,Assisted Pull up,23.00,5,5,Back
+5,2,8/11/2017,45,November,2017,Wednesday,Barbell Squat,80.00,4,5,Legs
+6,2,8/11/2017,45,November,2017,Wednesday,Hip adduction,45.00,4,10,Legs
+7,2,8/11/2017,45,November,2017,Wednesday,Hip thrust,60.00,3,5,Legs
+8,2,8/11/2017,45,November,2017,Wednesday,Leg Raises,0.00,3,15,Core
+9,2,8/11/2017,45,November,2017,Wednesday,alternate leg raises,0.00,3,15,Core
+10,2,8/11/2017,45,November,2017,Wednesday,Bicycles,0.00,3,15,Core
+11,3,10/11/2017,45,November,2017,Friday,Pec Fly,93.00,4,6,Chest
+12,3,10/11/2017,45,November,2017,Friday,Rear Delt,73.00,4,8,Back
+13,3,10/11/2017,45,November,2017,Friday,Bicep Curl,40.00,4,8,Arms
+14,3,10/11/2017,45,November,2017,Friday,Tricep Pull down,34.00,4,8,Arms
+15,3,10/11/2017,45,November,2017,Friday,Back Row,80.00,5,5,Back
+16,3,10/11/2017,45,November,2017,Friday,Lying Bicep Curl,29.00,4,8,Arms
+17,3,10/11/2017,45,November,2017,Friday,Plank,0.00,3,1,Core
+18,3,10/11/2017,45,November,2017,Friday,Left Plank,0.00,3,1,Core
+19,3,10/11/2017,45,November,2017,Friday,Right Plank,0.00,3,1,Core
+20,4,12/11/2017,45,November,2017,Sunday,Shoulder Press,20.00,4,8,Shoulders
+21,4,12/11/2017,45,November,2017,Sunday,Shoulder Shrug,20.00,4,8,Shoulders
+22,4,12/11/2017,45,November,2017,Sunday,Leg Extension,80.00,4,8,Legs
+23,4,12/11/2017,45,November,2017,Sunday,Leg Curl,50.00,4,8,Legs
+24,4,12/11/2017,45,November,2017,Sunday,Chest Fly,35.00,4,8,Chest
+25,4,12/11/2017,45,November,2017,Sunday,Leg Raises,0.00,3,10,Core
+26,4,12/11/2017,45,November,2017,Sunday,Russian Twists,0.00,3,10,Core
+27,4,12/11/2017,45,November,2017,Sunday,Bicycles,0.00,3,20,Core
+28,5,13/11/2017,46,November,2017,Monday,Bench Press,85.00,5,5,Chest
+29,5,13/11/2017,46,November,2017,Monday,Barbell Row,80.00,5,5,Back
+30,5,13/11/2017,46,November,2017,Monday,Overhead Press,40.00,5,5,Chest
+31,5,13/11/2017,46,November,2017,Monday,Assisted Pull up,23.00,5,5,Back
+32,6,15/11/2017,46,November,2017,Wednesday,Barbell Squat,85.00,5,5,Legs
+33,6,15/11/2017,46,November,2017,Wednesday,Deadlift,100.00,5,5,Legs
+34,6,15/11/2017,46,November,2017,Wednesday,Hip thrust,40.00,5,5,Legs
+35,6,15/11/2017,46,November,2017,Wednesday,Lunges,20.00,4,10,Legs
+36,7,16/11/2017,46,November,2017,Thursday,Bicep Curl,40.00,4,8,Arms
+37,7,16/11/2017,46,November,2017,Thursday,Tricep Pull down,34.00,4,8,Arms
+38,7,16/11/2017,46,November,2017,Thursday,Hammer Curl,18.00,4,8,Arms
+39,7,16/11/2017,46,November,2017,Thursday,Pec Fly,93.00,4,8,Chest
+40,7,16/11/2017,46,November,2017,Thursday,Rear Delt,73.00,4,8,Back
+41,7,16/11/2017,46,November,2017,Thursday,Lying Bicep Curl,29.00,4,8,Arms
+42,8,17/11/2017,46,November,2017,Friday,Incline Bench,70.00,5,5,Chest
+43,8,17/11/2017,46,November,2017,Friday,Lat Pull,66.00,5,5,Back
+44,8,17/11/2017,46,November,2017,Friday,Chest Fly,35.00,4,8,Chest
+45,8,17/11/2017,46,November,2017,Friday,Plank,0.00,3,1,Core
+46,8,17/11/2017,46,November,2017,Friday,Left Plank,0.00,3,1,Core
+47,8,17/11/2017,46,November,2017,Friday,Right Plank,0.00,3,1,Core
+48,9,19/11/2017,46,November,2017,Sunday,Shoulder Press,22.00,4,8,Shoulders
+49,9,19/11/2017,46,November,2017,Sunday,Shoulder Shrug,22.00,4,10,Shoulders
+50,9,19/11/2017,46,November,2017,Sunday,Bodyweight Dip,100.00,4,10,Arms
+51,9,19/11/2017,46,November,2017,Sunday,Leg Raises,0.00,3,10,Core
+52,9,19/11/2017,46,November,2017,Sunday,Russian Twists,0.00,3,10,Core
+53,9,19/11/2017,46,November,2017,Sunday,Axe Plank,0.00,3,10,Core
+54,9,19/11/2017,46,November,2017,Sunday,Press ups,0.00,3,10,Core
+55,9,19/11/2017,46,November,2017,Sunday,back extension,0.00,3,10,Core
+56,9,19/11/2017,46,November,2017,Sunday,Laterial Raises,10.00,4,10,Arms
+57,10,20/11/2017,47,November,2017,Monday,Bench Press,85.00,5,5,Chest
+58,10,20/11/2017,47,November,2017,Monday,Barbell Row,80.00,5,5,Back
+59,10,20/11/2017,47,November,2017,Monday,Overhead Press,45.00,5,5,Chest
+60,10,20/11/2017,47,November,2017,Monday,Assisted Pull up,23.00,5,5,Back
+61,10,20/11/2017,47,November,2017,Monday,Box jumps,0.00,4,10,Legs
+62,10,20/11/2017,47,November,2017,Monday,Push ups,0.00,4,10,Chest
+63,10,20/11/2017,47,November,2017,Monday,toe-to-bar,0.00,4,8,Core
+64,11,21/11/2017,47,November,2017,Tuesday,Dumbell Step Up,32.00,4,10,Legs
+65,11,21/11/2017,47,November,2017,Tuesday,Bodyweight Dip,100.00,4,8,Arms
+66,11,21/11/2017,47,November,2017,Tuesday,Bodyweight Pull-up,100.00,4,6,Back
+67,11,21/11/2017,47,November,2017,Tuesday,Burpee,0.00,3,6,Chest
+68,11,21/11/2017,47,November,2017,Tuesday,Inverted Row,100.00,1,25,Chest
+69,11,21/11/2017,47,November,2017,Tuesday,Plank,0.00,3,1,Core
+70,11,21/11/2017,47,November,2017,Tuesday,Left Plank,0.00,3,1,Core
+71,11,21/11/2017,47,November,2017,Tuesday,Right Plank,0.00,3,1,Core
+72,11,21/11/2017,47,November,2017,Tuesday,Bicycles,0.00,3,12,Core
+73,11,21/11/2017,47,November,2017,Tuesday,back extension,0.00,3,12,Core
+74,12,22/11/2017,47,November,2017,Wednesday,Barbell Squat,85.00,5,5,Legs
+75,12,22/11/2017,47,November,2017,Wednesday,Deadlift,110.00,5,5,Legs
+76,12,22/11/2017,47,November,2017,Wednesday,Hip thrust,50.00,5,5,Legs
+77,12,22/11/2017,47,November,2017,Wednesday,Lunges,24.00,4,10,Legs
+78,12,22/11/2017,47,November,2017,Wednesday,Leg Extension,90.00,4,8,Legs
+79,12,22/11/2017,47,November,2017,Wednesday,Leg Curl,50.00,4,8,Legs
+80,13,24/11/2017,47,November,2017,Friday,Incline Bench,75.00,5,5,Chest
+81,13,24/11/2017,47,November,2017,Friday,Pec Fly,100.00,4,8,Chest
+82,13,24/11/2017,47,November,2017,Friday,Rear Delt,79.00,4,8,Back
+83,13,24/11/2017,47,November,2017,Friday,Back Row,90.00,5,5,Back
+84,13,24/11/2017,47,November,2017,Friday,Horizontal Chop Left,25.00,3,12,Core
+85,13,24/11/2017,47,November,2017,Friday,Russian Twists,0.00,3,20,Core
+86,13,24/11/2017,47,November,2017,Friday,Horizontal Chop Right,25.00,3,12,Core
+87,14,26/11/2017,47,November,2017,Sunday,Bicep Curl,45.00,4,8,Arms
+88,14,26/11/2017,47,November,2017,Sunday,Hammer Curl,20.00,5,5,Arms
+89,14,26/11/2017,47,November,2017,Sunday,Tricep Pull down,35.00,8,8,Arms
+90,14,26/11/2017,47,November,2017,Sunday,Lying down tricep curl,30.00,4,8,Arms
+91,14,26/11/2017,47,November,2017,Sunday,Lying Bicep Curl,31.00,4,8,Arms
+92,14,26/11/2017,47,November,2017,Sunday,Plank,0.00,3,1,Core
+93,14,26/11/2017,47,November,2017,Sunday,Left Plank,0.00,3,1,Core
+94,14,26/11/2017,47,November,2017,Sunday,Right Plank,0.00,3,1,Core
+95,14,26/11/2017,47,November,2017,Sunday,Leg Raises,0.00,3,12,Core
+96,14,26/11/2017,47,November,2017,Sunday,back extension,10.00,3,12,Back
+97,14,26/11/2017,47,November,2017,Sunday,Horizontal Chop Left,25.00,3,12,Core
+98,14,26/11/2017,47,November,2017,Sunday,Horizontal Chop Right,25.00,3,12,Core
+99,15,27/11/2017,48,November,2017,Monday,Bench Press,90.00,5,5,Chest
+100,15,27/11/2017,48,November,2017,Monday,Barbell Row,85.00,5,5,Back
+101,15,27/11/2017,48,November,2017,Monday,Overhead Press,45.00,5,5,Chest
+102,15,27/11/2017,48,November,2017,Monday,Assisted Pull up,23.00,5,5,Back
+103,15,27/11/2017,48,November,2017,Monday,Box jumps,0.00,3,10,Legs
+104,15,27/11/2017,48,November,2017,Monday,Push ups,0.00,4,10,Chest
+105,15,27/11/2017,48,November,2017,Monday,toe-to-bar,0.00,4,8,Core
+106,16,29/11/2017,48,November,2017,Wednesday,Dumbell Step Up,32.00,4,10,Legs
+107,16,29/11/2017,48,November,2017,Wednesday,Bodyweight Dip,100.00,4,8,Arms
+108,16,29/11/2017,48,November,2017,Wednesday,Bodyweight Pull-up,100.00,4,6,Back
+109,16,29/11/2017,48,November,2017,Wednesday,Burpee,0.00,4,6,Chest
+110,16,29/11/2017,48,November,2017,Wednesday,Inverted Row,100.00,1,25,Chest
+111,16,29/11/2017,48,November,2017,Wednesday,Plank,0.00,3,1,Core
+112,16,29/11/2017,48,November,2017,Wednesday,Left Plank,0.00,3,1,Core
+113,16,29/11/2017,48,November,2017,Wednesday,Right Plank,0.00,3,1,Core
+114,16,29/11/2017,48,November,2017,Wednesday,Bicycles,0.00,3,12,Core
+115,16,29/11/2017,48,November,2017,Wednesday,Horizontal Chop Left,25.00,3,12,Core
+116,16,29/11/2017,48,November,2017,Wednesday,Horizontal Chop Right,25.00,3,12,Core
+117,17,30/11/2017,48,November,2017,Thursday,Barbell Squat,70.00,4,8,Legs
+118,17,30/11/2017,48,November,2017,Thursday,Hip thrust,50.00,5,5,Legs
+119,17,30/11/2017,48,November,2017,Thursday,Lunges,28.00,3,10,Legs
+120,17,30/11/2017,48,November,2017,Thursday,Leg Extension,90.00,4,8,Legs
+121,17,30/11/2017,48,November,2017,Thursday,Leg Curl,60.00,4,8,Legs
+122,18,1/12/2017,48,December,2017,Friday,Incline Bench,75.00,5,5,Chest
+123,18,1/12/2017,48,December,2017,Friday,Pec Fly,100.00,4,8,Chest
+124,18,1/12/2017,48,December,2017,Friday,Rear Delt,79.00,4,8,Back
+125,18,1/12/2017,48,December,2017,Friday,Back Row,90.00,5,5,Back
+126,18,1/12/2017,48,December,2017,Friday,Horizontal Chop Left,25.00,3,12,Core
+127,18,1/12/2017,48,December,2017,Friday,Horizontal Chop Right,25.00,3,12,Core
+128,18,1/12/2017,48,December,2017,Friday,Russian Twists,0.00,3,12,Core
+129,18,1/12/2017,48,December,2017,Friday,Lat Pull Down,66.00,4,8,Back
+130,19,3/12/2017,48,December,2017,Sunday,Bicep Curl,45.00,4,8,Arms
+131,19,3/12/2017,48,December,2017,Sunday,Tricep Pull down,35.00,4,8,Arms
+132,19,3/12/2017,48,December,2017,Sunday,Hammer Curl,22.00,5,5,Arms
+133,19,3/12/2017,48,December,2017,Sunday,Lying down tricep curl,35.00,4,8,Arms
+134,19,3/12/2017,48,December,2017,Sunday,Lying Bicep Curl,31.00,4,8,Arms
+135,19,3/12/2017,48,December,2017,Sunday,Chest Fly,40.00,4,8,Chest
+136,19,3/12/2017,48,December,2017,Sunday,Horizontal Chop Left,25.00,3,12,Core
+137,19,3/12/2017,48,December,2017,Sunday,Horizontal Chop Right,25.00,3,12,Core
+138,19,3/12/2017,48,December,2017,Sunday,Plank,0.00,3,1,Core
+139,19,3/12/2017,48,December,2017,Sunday,Left Plank,0.00,3,1,Core
+140,19,3/12/2017,48,December,2017,Sunday,Right Plank,0.00,3,1,Core
+141,19,3/12/2017,48,December,2017,Sunday,Shoulder Press,22.00,4,8,Shoulders
+142,19,3/12/2017,48,December,2017,Sunday,Shoulder Shrug,22.00,4,8,Shoulders
+143,20,4/12/2017,49,December,2017,Monday,Bench Press,90.00,5,5,Chest
+144,20,4/12/2017,49,December,2017,Monday,Barbell Row,80.00,5,5,Back
+145,20,4/12/2017,49,December,2017,Monday,Overhead Press,45.00,5,5,Chest
+146,20,4/12/2017,49,December,2017,Monday,Assisted Pull up,-18.00,5,5,Back
+147,20,4/12/2017,49,December,2017,Monday,toe-to-bar,0.00,4,8,Core
+148,20,4/12/2017,49,December,2017,Monday,Sit ups,0.00,4,12,Core
+149,20,4/12/2017,49,December,2017,Monday,Left Crunch,0.00,4,12,Core
+150,20,4/12/2017,49,December,2017,Monday,Right Crunch,0.00,4,12,Core
+151,21,6/12/2017,49,December,2017,Wednesday,Dumbell Step Up,32.00,4,10,Legs
+152,21,6/12/2017,49,December,2017,Wednesday,Bodyweight Dip,100.00,4,8,Arms
+153,21,6/12/2017,49,December,2017,Wednesday,Bodyweight Pull-up,100.00,4,5,Back
+154,21,6/12/2017,49,December,2017,Wednesday,Burpee,0.00,4,6,Chest
+155,21,6/12/2017,49,December,2017,Wednesday,Box jumps,0.00,3,10,Legs
+156,21,6/12/2017,49,December,2017,Wednesday,Press ups,0.00,4,10,Chest
+157,21,6/12/2017,49,December,2017,Wednesday,Plank,0.00,3,1,Core
+158,21,6/12/2017,49,December,2017,Wednesday,Left Plank,0.00,3,1,Core
+159,21,6/12/2017,49,December,2017,Wednesday,Right Plank,0.00,3,1,Core
+160,21,6/12/2017,49,December,2017,Wednesday,Horizontal Chop Left,30.00,3,12,Core
+161,21,6/12/2017,49,December,2017,Wednesday,Horizontal Chop Right,30.00,3,12,Core
+162,22,7/12/2017,49,December,2017,Thursday,Barbell Squat,85.00,5,5,Legs
+163,22,7/12/2017,49,December,2017,Thursday,Deadlift,120.00,5,5,Legs
+164,22,7/12/2017,49,December,2017,Thursday,Leg Extension,95.00,4,8,Legs
+165,22,7/12/2017,49,December,2017,Thursday,Leg Curl,70.00,4,8,Legs
+166,22,7/12/2017,49,December,2017,Thursday,Hip thrust,55.00,5,5,Legs
+167,22,7/12/2017,49,December,2017,Thursday,Lunges,32.00,4,10,Legs
+168,23,8/12/2017,49,December,2017,Friday,Incline Bench,80.00,5,5,Chest
+169,23,8/12/2017,49,December,2017,Friday,Pec Fly,107.00,4,8,Chest
+170,23,8/12/2017,49,December,2017,Friday,Rear Delt,79.00,4,8,Back
+171,23,8/12/2017,49,December,2017,Friday,Lat Pull Down,73.00,5,5,Back
+172,23,8/12/2017,49,December,2017,Friday,Back Row,95.00,5,5,Back
+173,23,8/12/2017,49,December,2017,Friday,Russian Twists,0.00,3,12,Core
+174,23,8/12/2017,49,December,2017,Friday,Left Crunch,0.00,3,12,Core
+175,23,8/12/2017,49,December,2017,Friday,Right Crunch,0.00,3,12,Core
+176,23,8/12/2017,49,December,2017,Friday,Bicycles,0.00,3,12,Core
+177,23,8/12/2017,49,December,2017,Friday,Leg Raises,0.00,4,10,Core
+178,23,8/12/2017,49,December,2017,Friday,Sit ups,0.00,4,12,Core
+179,24,10/12/2017,49,December,2017,Sunday,Bicep Curl,50.00,5,5,Arms
+180,24,10/12/2017,49,December,2017,Sunday,Tricep Pull down,40.00,4,8,Arms
+181,24,10/12/2017,49,December,2017,Sunday,Hammer Curl,24.00,5,5,Arms
+182,24,10/12/2017,49,December,2017,Sunday,Lying down tricep curl,40.00,5,5,Arms
+183,24,10/12/2017,49,December,2017,Sunday,Lying Bicep Curl,36.00,5,5,Arms
+184,24,10/12/2017,49,December,2017,Sunday,Shoulder Press,26.00,5,5,Shoulders
+185,24,10/12/2017,49,December,2017,Sunday,Shoulder Shrug,26.00,5,5,Shoulders
+186,24,10/12/2017,49,December,2017,Sunday,Horizontal Chop Left,25.00,3,12,Core
+187,24,10/12/2017,49,December,2017,Sunday,Horizontal Chop Right,25.00,3,12,Core
+188,24,10/12/2017,49,December,2017,Sunday,Sit ups,0.00,4,12,Core
+189,24,10/12/2017,49,December,2017,Sunday,Plank,0.00,3,1,Core
+190,24,10/12/2017,49,December,2017,Sunday,Right Plank,0.00,3,1,Core
+191,24,10/12/2017,49,December,2017,Sunday,Left Plank,0.00,3,1,Core
+192,24,10/12/2017,49,December,2017,Sunday,Leg Raises,0.00,4,10,Core
+193,25,11/12/2017,50,December,2017,Monday,Bench Press,92.50,5,5,Chest
+194,25,11/12/2017,50,December,2017,Monday,Barbell Row,80.00,5,5,Back
+195,25,11/12/2017,50,December,2017,Monday,Overhead Press,50.00,5,5,Chest
+196,25,11/12/2017,50,December,2017,Monday,Assisted Pull up,18.00,5,5,Back
+197,25,11/12/2017,50,December,2017,Monday,One arm row (right),28.00,5,5,Arms
+198,25,11/12/2017,50,December,2017,Monday,One arm row (left),28.00,5,5,Arms
+199,25,11/12/2017,50,December,2017,Monday,Chest Fly,40.00,5,5,Chest
+200,25,11/12/2017,50,December,2017,Monday,Left Crunch,0.00,4,12,Core
+201,25,11/12/2017,50,December,2017,Monday,Right Crunch,0.00,4,12,Core
+202,25,11/12/2017,50,December,2017,Monday,toe-to-bar,0.00,4,10,Core
+203,25,11/12/2017,50,December,2017,Monday,Sit ups,0.00,4,12,Core
+204,25,11/12/2017,50,December,2017,Monday,Heel-taps,0.00,4,12,Core
+205,26,13/12/2017,50,December,2017,Wednesday,Incline Bench,80.00,5,5,Chest
+206,26,13/12/2017,50,December,2017,Wednesday,Pec Fly,113.00,5,5,Chest
+207,26,13/12/2017,50,December,2017,Wednesday,Rear Delt,86.00,4,8,Back
+208,26,13/12/2017,50,December,2017,Wednesday,Lat Pull Down,66.00,4,8,Back
+209,26,13/12/2017,50,December,2017,Wednesday,Back Row,95.00,5,5,Back
+210,26,13/12/2017,50,December,2017,Wednesday,Sit ups,0.00,4,10,Core
+211,26,13/12/2017,50,December,2017,Wednesday,Leg-raises,0.00,4,10,Core
+212,26,13/12/2017,50,December,2017,Wednesday,Bicycles,0.00,4,12,Core
+213,26,13/12/2017,50,December,2017,Wednesday,Heel-taps,0.00,4,12,Core
+214,27,14/12/2017,50,December,2017,Thursday,Barbell Squat,85.00,5,5,Legs
+215,27,14/12/2017,50,December,2017,Thursday,Deadlift,120.00,5,5,Legs
+216,27,14/12/2017,50,December,2017,Thursday,Leg Extension,100.00,4,8,Legs
+217,27,14/12/2017,50,December,2017,Thursday,Leg Curl,75.00,4,8,Legs
+218,27,14/12/2017,50,December,2017,Thursday,Hip adduction,59.00,4,8,Legs
+219,27,14/12/2017,50,December,2017,Thursday,Hip abduction,52.00,4,8,Legs
+220,28,15/12/2017,50,December,2017,Friday,Dumbell Step Up,32.00,4,12,Legs
+221,28,15/12/2017,50,December,2017,Friday,Bodyweight Dip,100.00,4,8,Arms
+222,28,15/12/2017,50,December,2017,Friday,Bodyweight Pull-up,100.00,5,5,Back
+223,28,15/12/2017,50,December,2017,Friday,Press ups,0.00,4,10,Chest
+224,28,15/12/2017,50,December,2017,Friday,Box jumps,0.00,3,10,Legs
+225,28,15/12/2017,50,December,2017,Friday,Squat Snatch,10.00,4,12,Legs
+226,28,15/12/2017,50,December,2017,Friday,Barbell twists,0.00,3,12,Core
+227,28,15/12/2017,50,December,2017,Friday,Left Crunch,0.00,3,12,Core
+228,28,15/12/2017,50,December,2017,Friday,Right Crunch,0.00,3,12,Core
+229,28,15/12/2017,50,December,2017,Friday,Sit ups,0.00,3,12,Core
+230,29,17/12/2017,50,December,2017,Sunday,Bicep Curl,50.00,4,8,Arms
+231,29,17/12/2017,50,December,2017,Sunday,Lying down tricep curl,40.00,4,8,Arms
+232,29,17/12/2017,50,December,2017,Sunday,Shoulder Press,26.00,4,8,Shoulders
+233,29,17/12/2017,50,December,2017,Sunday,Hammer Curl,22.00,4,8,Arms
+234,29,17/12/2017,50,December,2017,Sunday,Tricep Pull down,40.00,4,8,Arms
+235,29,17/12/2017,50,December,2017,Sunday,Shoulder Shrug,26.00,4,8,Shoulders
+236,29,17/12/2017,50,December,2017,Sunday,Sit ups,0.00,4,12,Core
+237,29,17/12/2017,50,December,2017,Sunday,Left Crunch,0.00,4,12,Core
+238,29,17/12/2017,50,December,2017,Sunday,Right Crunch,0.00,4,12,Core
+239,30,18/12/2017,51,December,2017,Monday,Bench Press,95.00,5,5,Chest
+240,30,18/12/2017,51,December,2017,Monday,Overhead Press,55.00,5,5,Chest
+241,30,18/12/2017,51,December,2017,Monday,Barbell Row,85.00,5,5,Back
+242,30,18/12/2017,51,December,2017,Monday,Pull-Ups,0.00,5,5,Back
+243,30,18/12/2017,51,December,2017,Monday,One arm row (left),32.00,4,8,Arms
+244,30,18/12/2017,51,December,2017,Monday,One arm row (right),32.00,4,8,Arms
+245,30,18/12/2017,51,December,2017,Monday,Leg Raises,0.00,3,10,Core
+246,30,18/12/2017,51,December,2017,Monday,Bar twists,0.00,4,12,Core
+247,30,18/12/2017,51,December,2017,Monday,Sit-ups,0.00,4,12,Core
+248,30,18/12/2017,51,December,2017,Monday,Horizontal Chop Left,25.00,3,12,Core
+249,30,18/12/2017,51,December,2017,Monday,Horizontal Chop Right,25.00,3,12,Core
+250,31,20/12/2017,51,December,2017,Wednesday,Barbell Squat,90.00,5,5,Legs
+251,31,20/12/2017,51,December,2017,Wednesday,Deadlift,125.00,5,5,Legs
+252,31,20/12/2017,51,December,2017,Wednesday,Leg Extension,110.00,4,8,Legs
+253,31,20/12/2017,51,December,2017,Wednesday,Leg Curl,80.00,4,8,Legs
+254,31,20/12/2017,51,December,2017,Wednesday,Hip adduction,73.00,4,8,Legs
+255,31,20/12/2017,51,December,2017,Wednesday,Hip abduction,66.00,4,8,Legs
+256,31,20/12/2017,51,December,2017,Wednesday,Hip thrust,60.00,5,5,Legs
+257,31,20/12/2017,51,December,2017,Wednesday,Left Crunch,0.00,3,10,Core
+258,31,20/12/2017,51,December,2017,Wednesday,Right Crunch,0.00,3,10,Core
+259,31,20/12/2017,51,December,2017,Wednesday,Leg Raises,0.00,3,10,Core
+260,31,20/12/2017,51,December,2017,Wednesday,Crunches,0.00,3,10,Core
+261,32,21/12/2017,51,December,2017,Thursday,Incline Bench,85.00,5,5,Chest
+262,32,21/12/2017,51,December,2017,Thursday,Lat Pull,66.00,4,8,Back
+263,32,21/12/2017,51,December,2017,Thursday,Pec Fly,107.00,4,8,Chest
+264,32,21/12/2017,51,December,2017,Thursday,Rear Delt,86.00,4,8,Back
+265,32,21/12/2017,51,December,2017,Thursday,Back Row,100.00,5,5,Back
+266,32,21/12/2017,51,December,2017,Thursday,Left Crunch,0.00,3,12,Core
+267,32,21/12/2017,51,December,2017,Thursday,Right Crunch,0.00,3,12,Core
+268,32,21/12/2017,51,December,2017,Thursday,Leg Raises,0.00,3,10,Core
+269,32,21/12/2017,51,December,2017,Thursday,Crunches,0.00,3,10,Core
+270,32,21/12/2017,51,December,2017,Thursday,Bench Press with Chains,60.00,4,8,Chest
+271,33,23/12/2017,51,December,2017,Saturday,Dumbell Step Up,36.00,4,12,Legs
+272,33,23/12/2017,51,December,2017,Saturday,Bodyweight Dip,100.00,4,8,Arms
+273,33,23/12/2017,51,December,2017,Saturday,Bodyweight Pull-up,100.00,5,5,Back
+274,33,23/12/2017,51,December,2017,Saturday,Squat Snatch,8.00,4,12,Legs
+275,33,23/12/2017,51,December,2017,Saturday,Box jumps,0.00,3,10,Legs
+276,33,23/12/2017,51,December,2017,Saturday,V-up crunches with medicine ball,8.00,4,10,Core
+277,33,23/12/2017,51,December,2017,Saturday,Leg Raises,0.00,4,10,Core
+278,33,23/12/2017,51,December,2017,Saturday,Heel-taps,0.00,4,10,Core
+279,33,23/12/2017,51,December,2017,Saturday,Barbell twists,0.00,4,10,Core
+280,34,24/12/2017,51,December,2017,Sunday,Bicep Curl,50.00,4,8,Arms
+281,34,24/12/2017,51,December,2017,Sunday,Tricep Pull down,40.00,4,8,Arms
+282,34,24/12/2017,51,December,2017,Sunday,Shoulder Press,24.00,4,8,Shoulders
+283,34,24/12/2017,51,December,2017,Sunday,Shoulder Shrug,24.00,4,8,Shoulders
+284,34,24/12/2017,51,December,2017,Sunday,Lying Bicep Curl,34.00,4,8,Arms
+285,34,24/12/2017,51,December,2017,Sunday,Seated Row,61.00,4,8,Back
+286,34,24/12/2017,51,December,2017,Sunday,V-up crunches with medicine ball,8.00,3,10,Core
+287,34,24/12/2017,51,December,2017,Sunday,Barbell twists,0.00,3,10,Core
+288,34,24/12/2017,51,December,2017,Sunday,Russian Twists,10.00,3,20,Core
+289,35,27/12/2017,52,December,2017,Wednesday,Bench Press,100.00,5,5,Chest
+290,35,27/12/2017,52,December,2017,Wednesday,Overhead Press,55.00,5,5,Chest
+291,35,27/12/2017,52,December,2017,Wednesday,Barbell Row,90.00,5,5,Back
+292,35,27/12/2017,52,December,2017,Wednesday,Pull-Ups,105.00,5,5,Back
+293,35,27/12/2017,52,December,2017,Wednesday,Bicycles,0.00,3,10,Core
+294,35,27/12/2017,52,December,2017,Wednesday,Leg Raises,0.00,3,10,Core
+295,35,27/12/2017,52,December,2017,Wednesday,Russian Twists,10.00,3,10,Core
+296,35,27/12/2017,52,December,2017,Wednesday,V-up crunches with medicine ball,8.00,3,10,Core
+297,35,28/12/2017,52,December,2017,Thursday,Shoulder Press,26.00,4,8,Shoulders
+298,35,28/12/2017,52,December,2017,Thursday,Shoulder Shrug,26.00,4,8,Shoulders
+299,35,28/12/2017,52,December,2017,Thursday,Dumbell Chest Press,26.00,4,8,Chest
+300,35,28/12/2017,52,December,2017,Thursday,One arm row (left),32.00,4,8,Arms
+301,35,28/12/2017,52,December,2017,Thursday,One arm row (right),32.00,4,8,Arms
+302,35,28/12/2017,52,December,2017,Thursday,Seated Row,59.00,4,8,Back
+303,35,28/12/2017,52,December,2017,Thursday,Lat Pull Down,66.00,4,8,Back
+304,35,28/12/2017,52,December,2017,Thursday,Left Crunch,0.00,4,10,Core
+305,35,28/12/2017,52,December,2017,Thursday,Right Crunch,0.00,4,10,Core
+306,35,28/12/2017,52,December,2017,Thursday,Sled Pushes,30.00,5,4,Full
+307,36,29/12/2017,52,December,2017,Friday,Barbell Squat,90.00,5,5,Legs
+308,36,29/12/2017,52,December,2017,Friday,Deadlift,130.00,5,5,Legs
+309,36,29/12/2017,52,December,2017,Friday,Leg Extension,100.00,4,12,Legs
+310,36,29/12/2017,52,December,2017,Friday,Leg Curl,60.00,4,12,Legs
+311,36,29/12/2017,52,December,2017,Friday,Hip adduction,54.00,4,12,Legs
+312,36,29/12/2017,52,December,2017,Friday,Hip abduction,45.00,4,12,Legs
