@@ -351,3 +351,61 @@ ExerciseId,DateId,Exercise Date,Exercise Week,Exercise Month,Exercise Year,Exerc
 350,40,10/01/2018,2,January,2018,Wednesday,Right Plank,0.00,4,30,Core
 351,40,10/01/2018,2,January,2018,Wednesday,Left Plank,0.00,4,30,Core
 352,40,10/01/2018,2,January,2018,Wednesday,Sled Pushes,20.00,5,4,Core
+353,41,11/01/2018,2,January,2018,Thursday,Bench Press,95.00,5,5,Chest
+354,41,11/01/2018,2,January,2018,Thursday,Barbell Row,90.00,5,5,Back
+355,41,11/01/2018,2,January,2018,Thursday,Dumbell Bench,32.00,5,8,Chest
+356,41,11/01/2018,2,January,2018,Thursday,Back Row,95.00,5,5,Back
+357,41,11/01/2018,2,January,2018,Thursday,Shoulder Press,26.00,4,8,Shoulders
+358,41,11/01/2018,2,January,2018,Thursday,Shoulder Shrug,26.00,4,8,Shoulders
+359,41,11/01/2018,2,January,2018,Thursday,Sit-ups,0.00,3,20,Core
+360,41,11/01/2018,2,January,2018,Thursday,V-up crunches with medicine ball,0.00,3,20,Core
+361,42,13/01/2018,2,January,2018,Saturday,Deadlift,120.00,5,5,Legs
+362,42,13/01/2018,2,January,2018,Saturday,Leg Extension,110.00,4,12,Legs
+363,42,13/01/2018,2,January,2018,Saturday,Leg Curl,60.00,4,12,Legs
+364,42,13/01/2018,2,January,2018,Saturday,Hip adduction,59.00,4,12,Legs
+365,42,13/01/2018,2,January,2018,Saturday,Hip abduction,45.00,4,12,Legs
+366,42,13/01/2018,2,January,2018,Saturday,Sit-ups,0.00,3,20,Core
+367,42,13/01/2018,2,January,2018,Saturday,Barbell twists,0.00,3,20,Core
+368,42,13/01/2018,2,January,2018,Saturday,Leg Raises,0.00,4,10,Core
+369,43,14/01/2018,2,January,2018,Sunday,Seated Bicep Curl,30.00,4,8,Arms
+370,43,14/01/2018,2,January,2018,Sunday,Tricep Pull down,42.00,4,8,Arms
+371,43,14/01/2018,2,January,2018,Sunday,Lying Bicep Curl,30.00,4,8,Arms
+372,43,14/01/2018,2,January,2018,Sunday,Lying down tricep curl,35.00,4,8,Arms
+373,43,14/01/2018,2,January,2018,Sunday,DB Bicep Curl,20.00,4,8,Arms
+374,43,14/01/2018,2,January,2018,Sunday,Bicycles,0.00,3,20,Core
+375,43,14/01/2018,2,January,2018,Sunday,Heel-taps,0.00,3,20,Core
+376,43,14/01/2018,2,January,2018,Sunday,Reverse Crunch,0.00,3,20,Core
+377,44,15/01/2018,3,January,2018,Monday,Bench Press,80.00,4,10,Chest
+378,44,15/01/2018,3,January,2018,Monday,Overhead Press,40.00,4,8,Chest
+379,44,15/01/2018,3,January,2018,Monday,Arnold Press,14.00,4,8,Shoulders
+380,44,15/01/2018,3,January,2018,Monday,Shoulder Press,20.00,4,8,Shoulders
+381,45,17/01/2018,3,January,2018,Wednesday,Walking Lunge,14.00,2,10,Legs
+382,45,17/01/2018,3,January,2018,Wednesday,70% IRM Deadlift,120.00,4,4,Legs
+383,45,17/01/2018,3,January,2018,Wednesday,80% IRM Deadlift,130.00,3,3,Legs
+384,45,17/01/2018,3,January,2018,Wednesday,90% IRM Deadlift,140.00,4,2,Legs
+385,45,17/01/2018,3,January,2018,Wednesday,Dumbell Rows,22.00,3,24,Back
+386,45,17/01/2018,3,January,2018,Wednesday,Upright Rows,30.00,3,12,Shoulders
+387,45,17/01/2018,3,January,2018,Wednesday,Box jumps,101.00,3,15,Legs
+388,45,17/01/2018,3,January,2018,Wednesday,Plank,0.00,3,30,Core
+389,45,17/01/2018,3,January,2018,Wednesday,Left Plank,0.00,3,30,Core
+390,45,17/01/2018,3,January,2018,Wednesday,Right Plank,0.00,3,30,Core
+391,46,18/01/2018,3,January,2018,Thursday,Incline Bench,70.00,4,8,Chest
+392,46,18/01/2018,3,January,2018,Thursday,Barbell Row,85.00,4,8,Back
+393,46,18/01/2018,3,January,2018,Thursday,Rear Delt,79.00,4,8,Back
+394,46,18/01/2018,3,January,2018,Thursday,Back Row,90.00,4,8,Back
+395,46,18/01/2018,3,January,2018,Thursday,Front raises,8.00,3,12,Shoulders
+396,46,18/01/2018,3,January,2018,Thursday,Laterial Raises,8.00,3,12,Shoulders
+397,46,18/01/2018,3,January,2018,Thursday,Rear delt flys,8.00,3,12,Back
+398,46,18/01/2018,3,January,2018,Thursday,Plank,0.00,3,30,Core
+399,46,18/01/2018,3,January,2018,Thursday,Left Plank,0.00,3,30,Core
+400,46,18/01/2018,3,January,2018,Thursday,Right Plank,0.00,3,30,Core
+401,47,19/01/2018,3,January,2018,Friday,Wall Squats,0.00,3,60,Legs
+402,47,19/01/2018,3,January,2018,Friday,Goblet Squat,18.00,3,12,Legs
+403,47,19/01/2018,3,January,2018,Friday,Lunges,14.00,3,12,Legs
+404,47,19/01/2018,3,January,2018,Friday,Barbell Lunge,20.00,3,20,Legs
+405,47,19/01/2018,3,January,2018,Friday,60% 1RM Barbell Squat,60.00,3,8,Legs
+406,47,19/01/2018,3,January,2018,Friday,70% 1RM Barbell Squat,70.00,3,5,Legs
+407,47,19/01/2018,3,January,2018,Friday,80% 1RM Barbell Squat,80.00,2,3,Legs
+408,47,19/01/2018,3,January,2018,Friday,Box jumps,0.00,3,30,Legs
+409,47,19/01/2018,3,January,2018,Friday,Sit-ups,0.00,3,20,Core
+410,47,19/01/2018,3,January,2018,Friday,V-up crunches with medicine ball,8.00,3,20,Core
