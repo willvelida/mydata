@@ -112,3 +112,16 @@ These are the datasets used within the 'My Data' project. They are currently sto
 | Protein (g) | Protein consumed for the day (in grams) | None |
 | Water (ml) | Water consumed for the day (in millilitres) | None |
 | WaterTargetAchieved | Have I consumed enough water today? | IF Water > 2500 then "Yes" else "No" |
+
+**Cardio Workouts**
+
+| Field Name | Description | Calculation (If applicable) |
+|----------- | ----------- | ----------------------------|
+| CardioID | ID for Cardio Workout | None |
+| CardioDate | Date for the cardio workout | None |
+| CardioMonth | Month that the cardio workout took place | None |
+| CardioYear | Year that the cardio workout took place | None |
+| CardioDay | Day that the cardio workout took place | None |
+| CardioExercise | The cardio exercise name | None |
+| CardioSpeed | Speed of the cardio exercise | None |
+| CardioLevel | Level of resistance for the cardio exercise | None |
