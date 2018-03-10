@@ -546,3 +546,74 @@ ExerciseId,DateId,Exercise Date,Exercise Week,Exercise Month,Exercise Year,Exerc
 545,62,24/02/2018,10,February,2018,Saturday,Scissors,0.00,4,12,Core
 546,62,24/02/2018,10,February,2018,Saturday,Knee-Pull ins,0.00,4,10,Core
 547,62,24/02/2018,10,February,2018,Saturday,Flitter Kicks,0.00,4,20,Core
+548,63,26/02/2018,11,February,2018,Monday,Bench Press,80.00,4,10,Chest
+549,63,26/02/2018,11,February,2018,Monday,Overhead Press,45.00,4,8,Shoulders
+550,63,26/02/2018,11,February,2018,Monday,Arnold Press,15.00,4,8,Shoulders
+551,63,26/02/2018,11,February,2018,Monday,Shoulder Press,25.00,4,8,Shoulders
+552,63,26/02/2018,11,February,2018,Monday,Bicep Curl,30.00,3,12,Arms
+553,63,26/02/2018,11,February,2018,Monday,Hammer Curl,12.50,3,12,Arms
+554,64,27/08/2018,11,February,2018,Tuesday,Wall Squats,0.00,3,30,Legs
+555,64,27/08/2018,11,February,2018,Tuesday,Goblet Squat,22.50,3,12,Legs
+556,64,27/08/2018,11,February,2018,Tuesday,Lunges,25.00,3,20,Legs
+557,64,27/08/2018,11,February,2018,Tuesday,60% 1RM Barbell Squat,65.00,3,8,Legs
+558,64,27/08/2018,11,February,2018,Tuesday,70% 1RM Barbell Squat,75.00,3,5,Legs
+559,64,27/08/2018,11,February,2018,Tuesday,80% 1RM Barbell Squat,90.00,2,3,Legs
+560,64,27/08/2018,11,February,2018,Tuesday,Sit-ups,0.00,3,20,Core
+561,64,27/08/2018,11,February,2018,Tuesday,V-up crunches with medicine ball,10.00,3,20,Core
+562,64,27/08/2018,11,February,2018,Tuesday,Reverse Crunch,0.00,3,20,Core
+563,65,1/03/2018,11,March,2018,Thursday,Incline Bench,70.00,4,8,Chest
+564,65,1/03/2018,11,March,2018,Thursday,Shoulder Press,27.50,4,5,Shoulders
+565,65,1/03/2018,11,March,2018,Thursday,Shoulder Shrug,27.50,4,8,Shoulders
+566,65,1/03/2018,11,March,2018,Thursday,Front raises,7.50,3,8,Shoulders
+567,65,1/03/2018,11,March,2018,Thursday,Laterial Raises,7.50,3,8,Shoulders
+568,65,1/03/2018,11,March,2018,Thursday,Rear delt flys,7.50,3,8,Shoulders
+569,65,1/03/2018,11,March,2018,Thursday,Heel-taps,0.00,4,10,Core
+570,65,1/03/2018,11,March,2018,Thursday,Raised leg circles,0.00,4,10,Core
+571,65,1/03/2018,11,March,2018,Thursday,Scissors,0.00,4,12,Core
+572,65,1/03/2018,11,March,2018,Thursday,Knee-Pull ins,0.00,4,10,Core
+573,65,1/03/2018,11,March,2018,Thursday,Flitter Kicks,0.00,4,20,Core
+574,66,4/03/2018,11,March,2018,Sunday,Bicep Curl,30.00,3,12,Arms
+575,66,4/03/2018,11,March,2018,Sunday,Hammer Curl,12.50,3,8,Arms
+576,66,4/03/2018,11,March,2018,Sunday,Upright Rows,25.00,3,12,Shoulders
+577,66,4/03/2018,11,March,2018,Sunday,Lying down tricep curl,25.00,3,12,Arms
+578,66,4/03/2018,11,March,2018,Sunday,Pec Fly,95.00,4,8,Chest
+579,66,4/03/2018,11,March,2018,Sunday,Machine Row,45.00,4,8,Back
+580,66,4/03/2018,11,March,2018,Sunday,Plank,0.00,5,30,Core
+581,66,4/03/2018,11,March,2018,Sunday,Left Plank,0.00,5,30,Core
+582,66,4/03/2018,11,March,2018,Sunday,Right Plank,0.00,5,30,Core
+583,67,5/03/2018,12,March,2018,Monday,Bench Press,85.00,4,8,Chest
+584,67,5/03/2018,12,March,2018,Monday,Overhead Press,45.00,4,8,Shoulders
+585,67,5/03/2018,12,March,2018,Monday,Seated Row,80.00,4,8,Back
+586,67,5/03/2018,12,March,2018,Monday,Heel-taps,0.00,4,10,Core
+587,67,5/03/2018,12,March,2018,Monday,Scissors,0.00,4,12,Core
+588,67,5/03/2018,12,March,2018,Monday,Raised leg circles,0.00,4,10,Core
+589,67,5/03/2018,12,March,2018,Monday,Knee-Pull ins,0.00,4,10,Core
+590,67,5/03/2018,12,March,2018,Monday,Flitter Kicks,0.00,4,20,Core
+591,68,6/03/2018,12,March,2018,Tuesday,Shoulder Press,22.50,3,12,Shoulders
+592,68,6/03/2018,12,March,2018,Tuesday,Shoulder Shrug,22.50,3,12,Shoulders
+593,68,6/03/2018,12,March,2018,Tuesday,Tricep Pull down,30.00,3,12,Arms
+594,68,6/03/2018,12,March,2018,Tuesday,Leg Extension,88.00,3,12,Legs
+595,68,6/03/2018,12,March,2018,Tuesday,Lunges,20.00,3,24,Legs
+596,68,6/03/2018,12,March,2018,Tuesday,Plank,0.00,3,45,Core
+597,68,6/03/2018,12,March,2018,Tuesday,Left Plank,0.00,3,45,Core
+598,68,6/03/2018,12,March,2018,Tuesday,Right Plank,0.00,3,45,Core
+599,69,7/03/2018,12,March,2018,Wednesday,Russian Twists,10.00,3,20,Core
+600,69,7/03/2018,12,March,2018,Wednesday,Barbell twists,0.00,3,20,Core
+601,69,7/03/2018,12,March,2018,Wednesday,Hanging leg raise,0.00,3,12,Core
+602,69,7/03/2018,12,March,2018,Wednesday,Heel-taps,0.00,4,10,Core
+603,69,7/03/2018,12,March,2018,Wednesday,Raised leg circles,0.00,4,10,Core
+604,69,7/03/2018,12,March,2018,Wednesday,Scissors,0.00,4,12,Core
+605,69,7/03/2018,12,March,2018,Wednesday,Knee-Pull ins,0.00,4,10,Core
+606,69,7/03/2018,12,March,2018,Wednesday,Flitter Kicks,0.00,4,20,Core
+607,70,9/03/2018,12,March,2018,Friday,Incline Bench,70.00,4,8,Chest
+608,70,9/03/2018,12,March,2018,Friday,Shoulder Press,27.50,3,8,Shoulders
+609,70,9/03/2018,12,March,2018,Friday,Shoulder Shrug,27.50,3,8,Shoulders
+610,70,9/03/2018,12,March,2018,Friday,Front raises,7.50,4,8,Shoulders
+611,70,9/03/2018,12,March,2018,Friday,Laterial Raises,7.50,4,8,Shoulders
+612,70,9/03/2018,12,March,2018,Friday,Rear delt flys,7.50,4,8,Shoulders
+613,70,9/03/2018,12,March,2018,Friday,Bicep Curl,30.00,3,12,Arms
+614,70,9/03/2018,12,March,2018,Friday,Heel-taps,0.00,4,10,Core
+615,70,9/03/2018,12,March,2018,Friday,Raised leg circles,0.00,4,10,Core
+616,70,9/03/2018,12,March,2018,Friday,Scissors,0.00,4,12,Core
+617,70,9/03/2018,12,March,2018,Friday,Knee-Pull ins,0.00,4,10,Core
+618,70,9/03/2018,12,March,2018,Friday,Flitter Kicks,0.00,4,20,Core
