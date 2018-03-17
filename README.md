@@ -76,7 +76,8 @@ These are the datasets used within the 'My Data' project. They are currently sto
 
 | Field Name | Description | Calculation (If applicable) |
 |----------- | ----------- | ----------------------------|
-| Exercise Week | The week number in the year | None |
+| ExerciseID | ExerciseId | None |
+| DateID | DateId | None |
 | Exercise Month | The month in the year | None |
 | Exercise Year | The year that the workout took place in | None |
 | Exercise Day | The day that the workout took place on | None |
