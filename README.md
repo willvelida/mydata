@@ -97,7 +97,7 @@ These are the datasets used within the 'My Data' project. They are currently sto
 | Weight (Kg) | The amount I weighed in KG | None |
 | Weight (lbs) | The amount I weighed in pounds | None |
 | Gain/Loss Amount | The amount of total gain or loss achieved in that weight | current Weight in Pounds - Last Week Weight in Pounds |
-| TotalToTarget (lbs) | The amount I weighed in pounds | Weight (lbs) - 210.  |
+| BMI | BMI Value | ROUND((Weight (KG) / 1.88) / 1.88, 2)  |
 
 **Food Logs**
 
