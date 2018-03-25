@@ -113,6 +113,7 @@ These are the datasets used within the 'My Data' project. They are currently sto
 | Protein (g) | Protein consumed for the day (in grams) | None |
 | Water (ml) | Water consumed for the day (in millilitres) | None |
 | WaterTargetAchieved | Have I consumed enough water today? | IF Water > 2500 then "Yes" else "No" |
+| UnderEaten | Have I eaten enough today? | IF Calories In < 1800 then "Yes" else "No" |
 
 **Cardio Workouts**
 
