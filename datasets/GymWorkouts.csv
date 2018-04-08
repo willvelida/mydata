@@ -728,3 +728,35 @@ ExerciseId,DateId,Exercise Date,Exercise Month,Exercise Year,Exercise Day,Exerci
 727,84,1/04/2018,April,2018,Sunday,Leg Raises,0.00,3,10,Core
 728,84,1/04/2018,April,2018,Sunday,Knee-Pull ins,0.00,3,10,Core
 729,84,1/04/2018,April,2018,Sunday,Crunches,0.00,3,10,Core
+730,85,2/04/2018,April,2018,Monday,Bench Press,85.00,5,5,Chest
+731,85,2/04/2018,April,2018,Monday,Overhead Press,50.00,5,5,Shoulders
+732,85,2/04/2018,April,2018,Monday,Barbell Row,90.00,5,5,Back
+733,85,2/04/2018,April,2018,Monday,Pull-Ups,93.00,5,5,Shoulders
+734,85,2/04/2018,April,2018,Monday,Bicep Curl,30.00,4,12,Arms
+735,85,2/04/2018,April,2018,Monday,Upright Rows,30.00,4,12,Arms
+736,86,4/04/2018,April,2018,Wednesday,Deadlift,125.00,5,5,Legs
+737,86,4/04/2018,April,2018,Wednesday,Hip adduction,70.00,4,8,Legs
+738,86,4/04/2018,April,2018,Wednesday,Hip abduction,70.00,4,8,Legs
+739,86,4/04/2018,April,2018,Wednesday,Leg Press,150.00,4,8,Legs
+740,87,5/04/2018,April,2018,Thursday,Pec Fly,120.00,5,5,Chest
+741,87,5/04/2018,April,2018,Thursday,Tricep Pull down,42.50,4,8,Arms
+742,87,5/04/2018,April,2018,Thursday,Hammer Curl,17.50,4,8,Arms
+743,87,5/04/2018,April,2018,Thursday,Seated Row,80.00,4,8,Back
+744,87,5/04/2018,April,2018,Thursday,Plank,0.00,4,30,Core
+745,87,5/04/2018,April,2018,Thursday,Left Plank,0.00,4,30,Core
+746,87,5/04/2018,April,2018,Thursday,Right Plank,0.00,4,30,Core
+747,88,7/04/2018,April,2018,Saturday,Incline Bench,75.00,5,5,Chest
+748,88,7/04/2018,April,2018,Saturday,Pec Fly,120.00,5,5,Chest
+749,88,7/04/2018,April,2018,Saturday,Shoulder Press,30.00,5,5,Shoulders
+750,88,7/04/2018,April,2018,Saturday,Shoulder Shrug,30.00,5,5,Shoulders
+751,88,7/04/2018,April,2018,Saturday,Heel-taps,0.00,4,12,Core
+752,88,7/04/2018,April,2018,Saturday,Raised leg circles,0.00,4,10,Core
+753,88,7/04/2018,April,2018,Saturday,Scissors,0.00,4,12,Core
+754,88,7/04/2018,April,2018,Saturday,Knee-Pull ins,0.00,4,10,Core
+755,88,7/04/2018,April,2018,Saturday,Flitter Kicks,0.00,4,20,Core
+756,89,8/04/2018,April,2018,Sunday,Bench Press,85.00,5,5,Chest
+757,89,8/04/2018,April,2018,Sunday,Overhead Press,50.00,5,5,Shoulders
+758,89,8/04/2018,April,2018,Sunday,Barbell Row,95.00,5,5,Back
+759,89,8/04/2018,April,2018,Sunday,Pull-Ups,93.00,5,5,Shoulders
+760,89,8/04/2018,April,2018,Sunday,Upright Rows,30.00,4,12,Shoulders
+761,89,8/04/2018,April,2018,Sunday,Bicep Curl,35.00,4,8,Arms
