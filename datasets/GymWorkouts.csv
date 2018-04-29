@@ -792,3 +792,27 @@ ExerciseId,DateId,Exercise Date,Exercise Month,Exercise Year,Exercise Day,Exerci
 791,95,21/04/2018,April,2018,Saturday,Pull-Ups,94.00,4,5,Shoulders
 792,95,21/04/2018,April,2018,Saturday,Bicep Curl,35.00,4,8,Arms
 793,95,21/04/2018,April,2018,Saturday,Upright Rows,35.00,4,8,Shoulders
+794,96,23/04/2018,April,2018,Monday,Shoulder Press,25.00,4,8,Shoulders
+795,96,23/04/2018,April,2018,Monday,Shoulder Shrug,25.00,4,8,Shoulders
+796,96,23/04/2018,April,2018,Monday,Leg Extension,108.00,4,8,Legs
+797,96,23/04/2018,April,2018,Monday,Dumbell Rows,30.00,4,8,Back
+798,96,23/04/2018,April,2018,Monday,Leg Raises,0.00,4,10,Core
+799,96,23/04/2018,April,2018,Monday,Plank,0.00,4,30,Core
+800,97,25/04/2018,April,2018,Wednesday,Pec Fly,110.00,4,8,Chest
+801,97,25/04/2018,April,2018,Wednesday,Bicep Curl,35.00,4,8,Arms
+802,97,25/04/2018,April,2018,Wednesday,Row (machine),60.00,4,8,Back
+803,97,25/04/2018,April,2018,Wednesday,Russian Twists,15.00,4,12,Core
+804,97,25/04/2018,April,2018,Wednesday,Heel-taps,0.00,3,12,Core
+805,97,25/04/2018,April,2018,Wednesday,Raised leg circles,0.00,3,10,Core
+806,97,25/04/2018,April,2018,Wednesday,Scissors,0.00,3,12,Core
+807,97,25/04/2018,April,2018,Wednesday,Knee-Pull ins,0.00,3,10,Core
+808,97,25/04/2018,April,2018,Wednesday,Flitter Kicks,0.00,3,20,Core
+809,98,26/04/2018,April,2018,Thursday,Bench Press,85.00,5,5,Chest
+810,98,26/04/2018,April,2018,Thursday,Overhead Press,50.00,5,5,Shoulders
+811,98,26/04/2018,April,2018,Thursday,Barbell Row,100.00,5,5,Back
+812,98,26/04/2018,April,2018,Thursday,Upright Rows,30.00,4,12,Shoulders
+813,98,26/04/2018,April,2018,Thursday,Press-up hold,0.00,1,60,Shoulders
+814,99,29/04/2018,April,2018,Sunday,Deadlift,130.00,5,3,Legs
+815,99,29/04/2018,April,2018,Sunday,Barbell Lunge,40.00,3,8,Legs
+816,99,29/04/2018,April,2018,Sunday,Barbell Squat,70.00,3,8,Legs
+817,99,29/04/2018,April,2018,Sunday,Leg Press,120.00,3,6,Legs
