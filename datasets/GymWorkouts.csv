@@ -862,3 +862,49 @@ ExerciseId,DateId,Exercise Date,Exercise Month,Exercise Year,Exercise Day,Exerci
 861,106,12/05/2018,May,2018,Saturday,Laterial Raises,10.00,4,8,Shoulders
 862,106,12/05/2018,May,2018,Saturday,Rear delt flys,10.00,4,8,Back
 863,106,12/05/2018,May,2018,Saturday,Plank,0.00,5,30,Core
+864,107,15/05/2018,May,2018,Tuesday,Incline Bench,65.00,4,12,Chest
+865,107,15/05/2018,May,2018,Tuesday,Dumbell Fly,45.00,3,12,Chest
+866,107,15/05/2018,May,2018,Tuesday,Machine Shoulder Press,40.00,4,10,Shoulders
+867,107,15/05/2018,May,2018,Tuesday,Laterial Raises,20.00,3,10,Shoulders
+868,107,15/05/2018,May,2018,Tuesday,Shoulder Shrug,60.00,3,12,Shoulders
+869,107,15/05/2018,May,2018,Tuesday,Skull Crusher,25.00,2,12,Arms
+870,108,16/05/2018,May,2018,Wednesday,Barbell Squat,70.00,4,10,Legs
+871,108,16/05/2018,May,2018,Wednesday,Leg Press,110.00,3,12,Legs
+872,108,16/05/2018,May,2018,Wednesday,Barbell Lunge,45.00,3,10,Legs
+873,108,16/05/2018,May,2018,Wednesday,Leg Extension,108.00,3,10,Legs
+874,108,16/05/2018,May,2018,Wednesday,Standing Machine Calf Raise,50.00,3,10,Legs
+875,108,16/05/2018,May,2018,Wednesday,Plank,0.00,3,30,Core
+876,108,16/05/2018,May,2018,Wednesday,Decline sit-up,0.00,3,15,Core
+877,108,16/05/2018,May,2018,Wednesday,Hanging leg raise,0.00,3,15,Core
+878,109,18/05/2018,May,2018,Friday,Sit-ups,0.00,3,15,Core
+879,109,18/05/2018,May,2018,Friday,Plank,0.00,3,30,Core
+880,109,18/05/2018,May,2018,Friday,Left Plank,0.00,3,20,Core
+881,109,18/05/2018,May,2018,Friday,Right Plank,0.00,3,20,Core
+882,110,21/05/2018,May,2018,Monday,Shoulder Press,25.00,4,8,Shoulders
+883,110,21/05/2018,May,2018,Monday,Dumbell Bench,60.00,4,8,Chest
+884,110,21/05/2018,May,2018,Monday,Push ups,0.00,3,12,Chest
+885,110,21/05/2018,May,2018,Monday,Close grip push ups,0.00,3,8,Chest
+886,110,21/05/2018,May,2018,Monday,Tricep Pull down,42.00,3,10,Arms
+887,110,21/05/2018,May,2018,Monday,MTS Ab Crunch,30.00,4,12,Core
+888,111,23/05/2018,May,2018,Wednesday,Bench Press,80.00,4,8,Chest
+889,111,23/05/2018,May,2018,Wednesday,Barbell Curl,30.00,3,12,Arms
+890,111,23/05/2018,May,2018,Wednesday,hypertension back,0.00,3,10,Back
+891,111,23/05/2018,May,2018,Wednesday,Plank,0.00,3,30,Core
+892,111,23/05/2018,May,2018,Wednesday,MTS Ab Crunch,35.00,3,12,Core
+893,112,24/05/2018,May,2018,Thursday,Seated Row,70.00,4,8,Back
+894,112,24/05/2018,May,2018,Thursday,One-arm row,30.00,4,8,Arms
+895,112,24/05/2018,May,2018,Thursday,Overhead Press,50.00,5,5,Shoulders
+896,112,24/05/2018,May,2018,Thursday,Barbell Row,90.00,5,5,Back
+897,112,24/05/2018,May,2018,Thursday,MTS Ab Crunch,35.00,4,12,Core
+898,113,26/05/2018,May,2018,Saturday,Incline Bench,70.00,4,8,Chest
+899,113,26/05/2018,May,2018,Saturday,Dumbell Fly,45.00,3,12,Chest
+900,113,26/05/2018,May,2018,Saturday,Machine Shoulder Press,40.00,4,10,Shoulders
+901,113,26/05/2018,May,2018,Saturday,Laterial Raises,20.00,3,12,Shoulders
+902,113,26/05/2018,May,2018,Saturday,Shoulder Shrug,60.00,3,12,Shoulders
+903,113,26/05/2018,May,2018,Saturday,Skull Crusher,25.00,2,12,Arms
+904,113,26/05/2018,May,2018,Saturday,MTS Ab Crunch,35.00,3,12,Core
+905,114,27/05/2018,May,2018,Sunday,Leg Extension,101.00,4,10,Legs
+906,114,27/05/2018,May,2018,Sunday,Hip adduction,70.00,4,12,Legs
+907,114,27/05/2018,May,2018,Sunday,Hip abduction,70.00,4,12,Legs
+908,114,27/05/2018,May,2018,Sunday,Tricep Pull down,40.00,4,8,Arms
+909,114,27/05/2018,May,2018,Sunday,Hammer Curl,20.00,4,8,Arms
